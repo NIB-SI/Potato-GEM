@@ -1,130 +1,138 @@
-	class	subclass	name	biocyc_pwy	last_rxns	compartments	products	product_ids	type
-0	alkaloids	alk. prec.	cholesterol	PWY18C3-1	['nan']	['cytosol']	['cholesterol']	['chsterol[c]']	precursors
-1	alkaloids	alk. prec.	putrescine biosynthesis II	PWY-43	['CMPA_1']	['cytosol']	['putrescine']	['ptrc[c]']	precursors
-2	alkaloids	alk. prec.	putrescine biosynthesis III	PWY-46	['ORNDC']	['cytosol']	['putrescine']	['ptrc[c]']	precursors
-3	alkaloids	alk. prec.	spermidine biosynthesis I	BSUBPOLYAMSYN-PWY	['SPMS']	['cytosol']	['spermidine']	['spmd[c]']	precursors
-4	alkaloids	alk. prec.	spermine biosynthesis	ARGSPECAT-PWY	['SPRMS']	['cytosol']	['spermine']	['sprm[c]']	precursors
-5	alkaloids	alk. prec.	(putrescine) spermine and spermidine degradation I	PWY-6117	['RE1537C']	['cytosol']	['putrescine']	['ptrc[c]']	precursors
-6	alkaloids	alk. prec.	(putrescine) spermine and spermidine degradation III	PWY-6441	['RXN-12089']	['cytosol']	['putrescine']	['ptrc[c]']	precursors
-7	alkaloids	alk. prec.	putrescine degradation IV	PWY-2	['AMINOBUTDEHYDROG-RXN', 'RE0691C']	['cytosol']	['4-aminobutanoate', '1-pyrroline']	['4abut[c]', 'CE1944[c]']	precursors
-8	alkaloids	alkaloids	alpha-solanine, alpha-chaconine	PWY-5666	['RXN-8883', 'RXN-8884']	['cytosol']	['alpha-chaconine', 'alpha-solanine']	['a_sol[c]', 'a_chac[c]']	2nd
-9	alkaloids	alkaloids	solasodine and soladulcidine biosynthesis (solanine chaconine precursors)	PWY18C3-2	['RXN18C3-236', 'RXN18C3-7']	['cytosol']	['solasodine', '16α,22,26-trihydroxycholesterol']	['solasodine[c]', '16_22_26_trihydchst[c]']	2nd
-10	alkaloids	alkaloids	solasodine glycosylation	PWY18C3-4	['RXN18C3-13', 'RXN-12123']	['cytosol']	['solasodine 3-O-β-D-glucoside', 'solasodine 3-O-β-D-galactoside']	['sol3ObDglus[c]', 'sol3ObDgals[c]']	2nd
-11	alkaloids	alkaloids	calystegines (1-methylpyrrolinium biosynthesis)	PWY-5315	['1MPYRS']	['cytosol']	['1-methylpyrrolinium']	['1mpyr[c]']	2nd
-12	alkaloids	alkaloids	calystegines	PWY-5318	['RXN-8258']	['cytosol']	['calystegine A3']	['calystegine[c]']	2nd
-13	alkaloids	alkaloids	tropane alkaloids biosynthesis	PWY-5317	['6SHHYOSCYAMINEH']	['cytosol']	['S-atropine', 'scopolamine']	['hyoscyamine_L[c]', 'scopolamine[c]']	2nd
-14	terpenoids	terp. prec.	GGPP via mevanolate (cytosol)	PWY-922	['IPDDI']	['cytosol']	['prenyl diphoshate']	['dmpp[c]']	precursors
-15	terpenoids	terp. prec.	GGPP via mevanolate (cytosol)	PWY-5123	['GRTT', 'FPPS_h']	['cytosol', 'chloroplast']	['(2E,6E)-farnesyl diphosphate[c]', '(2E,6E)-farnesyl diphosphate[h]']	['frdp[h]', 'frdp[c]']	precursors
-16	terpenoids	terp. prec.	GGPP via mevanolate (cytosol)	PWY-5120	['FARNESYLTRANSTRANSFERASE-RXN', 'GGPS_h']	['cytosol', 'chloroplast']	['geranylgeranyl diphoshate[h]', 'geranylgeranyl diphoshate[c]']	['ggdp[c]', 'ggdp[h]']	precursors
-17	terpenoids	terp. prec.	GGPP via MEP (chloroplast)	PWY-7560	['DMPPSh', 'IDS3', 'IPDPSh', 'IPDPS2h', 'IDIh']	['chloroplast']	['3-methylbut-3-en-1-yl diphosphate', 'prenyl diphosphate']	['dmpp[h]', 'ipdp[h]']	precursors
-18	terpenoids	terp. prec.	GPP	PWY-5122	['GPPS_h']	['cytosol', 'chloroplast']	['geranyl diphoshate[c]', 'geranyl diphoshate[h]']	['grdp[h]', 'grdp[c]']	precursors
-19	terpenoids	terp. prec.	ent-kaurene biosynthesis I	PWY-5032	['IENTKAUR16ENES']	['cytosol', 'chloroplast']	['ent-kaurene']	['ientkaur16ene[c]']	precursors
-20	terpenoids	tetraterpenoid	carotenoids (lycopene syntesis)	PWY-6475	['RXN-8042']	['chloroplast']	['lycopene']	['lycop[h]']	2nd
-21	terpenoids	tetraterpenoid	carotenoids	PWY-5946	['DCAROC']	['chloroplast']	['alpha-carotene', 'delta-carotene']	['dcaro[h]', 'acaro[h]']	2nd
-22	terpenoids	tetraterpenoid	carotenoids	PWY-5943	['GCATENEC']	['chloroplast']	['beta-carotene', 'gamma-carotene']	['caro[h]', 'gcarote[h]']	2nd
-23	terpenoids	tetraterpenoid	carotenoids	PWY-5947	['ZXANMO']	['chloroplast']	['lutein']	['lutein[h]']	2nd
-24	terpenoids	tetraterpenoid	carotenoids	PWY-5944	['RXN-8026']	['chloroplast']	['zeaxanthin']	['zeax[h]']	2nd
-25	terpenoids	tetraterpenoid	carotenoids	PWY-5945	['ANTHXANEPOX_h']	['chloroplast']	['violaxanthin']	['vioxan[h]']	2nd
-26	terpenoids	tetraterpenoid	carotenoids	PWY-6809	['9CNEOXANS']	['chloroplast']	['9-cis-neoxathin']	['9cneoxan[h]']	2nd
-27	terpenoids	diterpenoid	phytyl diphosphate biosynthesis	PWY-5063	['GGDPRh']	['chloroplast']	['phytyl diphosphate']	['phdp[h]']	2nd
-28	terpenoids	diterpenoid	phytol salvage pathway	PWY-5107	['RXN-7763']	['chloroplast']	['phytyl diphosphate']	['phdp[h]']	2nd
-29	terpenoids	diterpenoid	cis-abienol biosynthesis	PWY18C3-13	['RXN-13770']	['chloroplast']	['cis-abienol']	['cabienol[h]']	2nd
-30	terpenoids	monoterpenoid	camphor biosynthesis	PWY-6990	['BORNEOL-DEHYDROGENASE-RXN']	['chloroplast']	['(+)-camphor']	['camphor[h]']	2nd
-31	terpenoids	monoterpenoid	(3R)-linalool biosynthesis	PWY-7709	['3RLINALOOLS']	['chloroplast']	['(3R)-linalool']	['3Rlinalool[h]']	2nd
-32	terpenoids	monoterpenoid	(3S)-linalool biosynthesis	PWY-7141	['3SLINALOOLS']	['chloroplast']	['(3S)-linalool']	['3Slinalool[h]']	2nd
-33	terpenoids	monoterpenoid	geraniol and geranial biosynthesis	PWY-5829	['10HGERANIOLDH']	['chloroplast']	['neral', 'geraniol']	['geraniol[h]', 'neral[h]']	2nd
-34	terpenoids	monoterpenoid	geranyl acetate biosynthesis	PWY-5835	['RXN-9192']	['chloroplast']	['geranyl acetate']	['gerac[h]']	2nd
-35	terpenoids	monoterpenoid	nerol biosynthesis	PWY-8177	['RXN-21729']	['chloroplast']	['nerol']	['nerol[h]']	2nd
-36	terpenoids	monoterpenoid	trichome monoterpenes biosynthesis	PWY-6447	['RXN-11282', 'RXN-11284', 'RXN-11286', 'RXN-11288', 'RXN-11279', 'RXN-8584']	['chloroplast']	['β-phellandrene', '(4S)-limonene', '(-)-α-pinene', 'α-phellandrene', 'α-terpinene', '(+)-2-carene']	['limnen[h]', 'carene[h]', 'aterpn[h]', 'aphedn[h]', 'appnn[h]', 'bphedn[h]']	2nd
-37	terpenoids	sesquiterpenoid	costunolide biosynthesis	PWY-6540	['RXN-15459', 'RXN-20055', 'RXN-20050']	['cytosol']	['inunolide', '(+)-costunolide (12,6α)', '8-epi-inunolide']	['8einunolid[c]', 'inunolid[c]', 'costunolid[c]']	2nd
-38	terpenoids	sesquiterpenoid	β-caryophyllene biosynthesis	PWY-6275	['BELEMENES', 'EBCARYOPHYLLENES', 'AHUMULENES']	['cytosol']	['α-humulene', '(-)-β-caryophyllene', '(-)-β-elemene']	['Ebcaryophyllene[c]', 'ahumulene[c]', 'belemene[c]']	2nd
-39	terpenoids	sesquiterpenoid	farnesene biosynthesis	PWY-5725	['ZEAFARNESENES', 'EEAFARNESENES', 'EBFARNESENES']	['cytosol']	['(E,E)-α-farnesene', '(E)-β-farnesene', '(Z,E)-α-farnesene']	['EEafarnesene[c]', 'ZEafarnesene[c]', 'Ebfarnesene[c]']	2nd
-40	terpenoids	sesquiterpenoid	germacrene biosynthesis	PWY-5733	['RXN-11527', 'GERMACRENEDS', 'EEGERMACRENEBS', 'GERMACRENEDS2', 'GERMACRENECS']	['cytosol']	['(-)-germacrene D', '(E,E)-germacrene B', '(+)-germacrene D', '(+)-germacrene A', 'germacrene C']	['germacreneD[c]', 'EEgermacreneB[c]', 'germacrene_D[c]', 'germacreneC[c]', 'germacreneA[c]']	2nd
-41	terpenoids	sesquiterpenoid	valencene and 7-epi-α-selinene biosynthesis	PWY-6291	['RXN-8608', 'RXN-8609']	['cytosol']	['(+)-valencene', '7-epi-α-selinene']	['selinene[c]', 'valencene[c]']	2nd
-42	terpenoids	triterpenoid	epoxysqualene biosynthesis	PWY-5670	['SQUALENE-MONOOXYGENASE-RXN']	['cytosol']	['(3S)-2,3-epoxy-2,3-dihydrosqualene']	['Ssq23epx[c]']	2nd
-43	terpenoids	triterpenoid	α-amyrin biosynthesis	PWY-5377	['AAMYRINS']	['cytosol']	['α-amyrin']	['aamyrin[c]']	2nd
-44	terpenoids	triterpenoid	cycloartenol biosynthesis	PWY-8028	['CAS']	['cytosol']	['cycloartenol']	['cyart[c]']	2nd
-45	terpenoids	triterpenoid	lupeol biosynthesis	PWY-112	['LUPEOLS']	['cytosol']	['lupeol']	['lupeol[c]']	2nd
-46	terpenoids	triterpenoid	plant sterol biosynthesis II	PWY-6663	['DSMSTOLR']	['cytosol']	['cholesterol']	['chsterol[c]']	2nd
-47	terpenoids	triterpenoid	phytosterol biosynthesis (plants)	PWY-2541	['SITOSTEROLDS', 'CRINOSTEROLS', '24IEPICAMPDS']	['cytosol']	['crinosterol', 'brassicasterol', 'stigmasterol', 'campesterol']	['Brassicasterol[r]', 'crinosterol[c]', 'Stigmasterol[r]', 'campol[c]']	2nd
-48	phenylpropanoid derivatives	phen. prec.	3-dehydroquinate biosynthesis I	PWY-6164	['DHQS_h']	['chloroplast']	['3-dehydroquinate']	['3dhq[h]']	precursors
-49	phenylpropanoid derivatives	phen. prec.	chorismate biosyn from 3-dehydroquinate	PWY-6163	['CHRS_h']	['chloroplast']	['chorismate']	['chor[h]']	precursors
-50	phenylpropanoid derivatives	phen. prec.	L-phenylalanine biosynthesis II	PWY-3462	['AGNDA_h']	['chloroplast']	['L-phenylalanine[c]', 'L-phenylalanine[h]']	['phe_L[c]', 'phe_L[h]']	precursors
-51	phenylpropanoid derivatives	phen. prec.	phenylpropanoid biosynthesis, initial reactions	PWY1F-467	['CINNM4H']	['cytosol']	['4-coumarate']	['T4hcinnm[c]']	precursors
-52	phenylpropanoid derivatives	phen. prec.	phenylpropanoid biosynthesis	PWY-361	['4CMCOAS', 'HCMT', 'SKMHCT', 'SAD', 'CONIALDHDH2', 'CADH']	['cytosol']	['sinapyl-alcohol', '(E)-4-coumaroyl-CoA', '(E)-caffeoyl-CoA', '4-coumaryl alcohol', 'coniferyl-alcohol']	['coumarylalc[c]', 'coucoa[c]', 'confrl[c]', 'sinapylalc[c]', 'caffcoa[c]']	precursors
-53	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	['2.4.1.115-RXN-dhk', '2.4.1.115-RXN-dhq', '2.4.1.115-RXN-dhm', 'RXN-13192-kq', 'RXN-13192-qm', 'nan', 'nan', 'p-Coumaroyl-GLU', 'nan', 'RXN-527']	['cytosol']	['kaempferol', 'genistin', 'pinocembrin chalcone', 'pelargonidin-3-O-beta-D-glucoside', '1-O-(4-coumaroyl)-β-D-glucose', 'myricetin', '1-O-4-hydroxybenzoyl-β-D-glucose', 'cyanidin 3,7-di-O-β-D-glucoside', 'quercetin', 'delphinidin-3-O-beta-D-glucoside']	['cyan37diobdgide[c]', 'myricetin[c]', 'genistin[c]', 'pelargonidin3ogide[c]', 'pinocembrin_chalcone[c]', '1o4coubdglu[c]', 'quercetin[c]', '1o4hydbenzbdglu[c]', 'delphinidin3Ogide_D[c]', 'kaempferol[c]']	2nd
-54	phenylpropanoid derivatives	phen. prec.	4-hydroxybenzoate biosynthesis IV	PWY-6431	['HBZALD-OX-RXN']	['cytosol']	['4-hydroxybenzoate']	['4hbz[c]']	precursors
-55	phenylpropanoid derivatives	flavonoids	flavonoid biosynthesis	PWY1F-FLAVSYN	['NARINGENINH2', 'COUCOAR2']	['cytosol']	['isoliquiritigenin', '(+)-dihydrokaempferol']	['dhkaempferol[c]', 'iliquiritigenin[c]']	2nd
-56	phenylpropanoid derivatives	flavonoids	pelargonidin conjugates biosynthesis	PWY-5139	['PELARGONIDIN3ORUTINOSIDEGT', 'PELARGONIDIN3OGIDEAT', 'PELARGONIDIN3OGIDEHCT', 'PELARGONIDIN3OGIDEGMT', 'PELARGONIDIN3OGIDEGT']	['cytosol']	['pelargonidin3Ocaffeoylgide_D_c', 'pelargonidin3Orutinoside5Ogide_D_c', 'pelargonidin3O6Omalgide_D_c', 'pelargonidin35dgide_c', 'pelargonidin3opcoumaroylgide_c']	['pelargonidin3opcoumaroylgide[c]', 'pelargonidin3O6Omalgide_D[c]', 'pelargonidin35dgide[c]', 'pelargonidin3Orutinoside5Ogide_D[c]', 'pelargonidin3Ocaffeoylgide_D[c]']	2nd
-57	phenylpropanoid derivatives	flavonoids	salvianin biosynthesis	PWY-5268	['NDPS']	['cytosol']	['salvianin']	['salvianin[c]']	2nd
-58	phenylpropanoid derivatives	flavonoids	cyanidin 3,7-diglucoside polyacylation biosynthesis	PWY-7464	['RXN-15374']	['cytosol']	['cyanidin 3-O-glucoside-7-O-(6-O-(4-O-(6-O-(p-hydroxybenzoyl)-glucosyl)-oxybenzoyl)-glucoside)']	['cpd16604[c]']	2nd
-59	phenylpropanoid derivatives	flavonoids	anthocyanidin modification	PWY-7450	['RXN-15333']	['cytosol']	['anthocyanin A11']	['cpd16540[c]']	2nd
-60	phenylpropanoid derivatives	flavonoids	ternatin C5 biosynthesis	PWY-5295	['DELPHINIDIN3O6OMALBGIDE3OGIDEGT']	['cytosol']	['ternatin C5']	['ternatinC5[c]']	2nd
-61	phenylpropanoid derivatives	flavonoids	ternatin C3 biosynthesis	PWY-7280	['RXN-14496']	['cytosol']	['ternatin C3']	['ternatinC3[c]']	2nd
-62	phenylpropanoid derivatives	flavonoids	violdelphin biosynthesis	PWY-7458	['RXN-15354']	['cytosol']	['violdelphin']	['violdelphin[c]']	2nd
-63	phenylpropanoid derivatives	flavonoids	salvigenin biosynthesis	PWY-7325	['RXN-14752', 'RXN-15530']	['cytosol']	['apigenin', 'salvigenin']	['salvigenin[c]', 'apigenin[c]']	2nd
-64	phenylpropanoid derivatives	flavonoids	apigenin glycosides biosynthesis	PWY-6010	['7ODGYLAPIGENINMT', '7ODGYLAPIGENINRT', '7ODGYLAPIGENINAT', 'RXN-13800']	['cytosol']	['7oDgylapigenin_c', '7bDapiofuranosyl12bDgylapigenin_c', 'apigenin7oneohesperidoside_c', 'apigenin7o6malgide_c']	['7bDapiofuranosyl12bDgylapigenin[c]', 'apigenin7o6malgide[c]', '7oDgylapigenin[c]', 'apigenin7oneohesperidoside[c]']	2nd
-65	phenylpropanoid derivatives	flavonoids	luteolin glycosides biosynthesis	PWY-6239	['LUT7OHIDES', 'RXN-13801']	['cytosol']	['luteolin 7-O-neohesperidoside', 'luteolin-7-O-gentiobioside']	['luteolin7oneohesperidoside[c]', 'cpd14825[c]']	2nd
-66	phenylpropanoid derivatives	flavonoids	orientin and isoorientin biosynthesis I	PWY-7188	['RXN-14081', 'RXN-14082']	['cytosol']	['isoorientin', 'orientin']	['orientin[c]', 'isoorientin[c]']	2nd
-67	phenylpropanoid derivatives	flavonoids	pinocembrin C-glucosylation	PWY-7189	['RXN-14087', 'RXN-14088']	['cytosol']	['8-C-glucosyl chrysin', '6-C-glucosyl chrysin']	['cpd15084[c]', 'cpd15087[c]']	2nd
-68	phenylpropanoid derivatives	flavonoids	syringetin biosynthesis	PWY-5391	['RXN-8452']	['cytosol']	['(+)-taxifolin', 'myricetin', 'syringetin']	['syringetin[c]', 'myricetin[c]', 'itransdhquercetin[c]']	2nd
-69	phenylpropanoid derivatives	flavonoids	polymethylated quercetin biosynthesis	PWY-7161	['RXN-13929', 'RXN-13930', '3OMQUERCETINMT', 'RXN-13932', 'RXN-13933', 'RXN-13934']	['cytosol']	"[""7,3'-dimethylquercetin"", ""3,3'-dimethylquercetin"", ""3,7'-dimethylquercetin"", ""7,4'-dimethylquercetin""]"	['73dmtquerc[c]', '33dmtquerc[c]', '37omquercetin[c]', '74dmtquerc[c]']	2nd
-70	phenylpropanoid derivatives	flavonoids	quercetin gentiotetraside biosynthesis	PWY-7137	['RXN-13799']	['cytosol']	['quercetin-3-gentiotetraside']	['cpd14822[c]']	2nd
-71	phenylpropanoid derivatives	flavonoids	kaempferol diglycoside biosynthesis	PWY-7191	['RXN-14108']	['cytosol']	['kaempferol 3-O-β-D-glucosylgalactoside']	['cpd15105[c]']	2nd
-72	phenylpropanoid derivatives	flavonoids	polymethylated kaempferol biosynthesis	PWY-7163	['RXN-13935', 'RXN-13937', 'RXN-13936']	['cytosol']	"[""7,4'-dimethylkaempferol"", '3-O-methylkaempferol', ""3,4'-dimethylkaempferol""]"	['34dimetkmpfol[c]', '74dimetkmpfol[c]', 'cpd14950[c]']	2nd
-73	phenylpropanoid derivatives	flavonoids	myricetin gentiobioside biosynthesis	PWY-7140	['RXN-13823']	['cytosol']	['myricetin 3-O-gentiobioside']	['cpd14843[c]']	2nd
-74	phenylpropanoid derivatives	flavonoids	genistin gentiobioside biosynthesis	PWY-7145	['RXN-13831']	['cytosol']	['genistin 7-gentiobioside']	['genistin7gentside[c]']	2nd
-75	phenylpropanoid derivatives	coumarins	coumarins	PWY-5176	['COUMARINS']	['cytosol']	['coumarin']	['coumarin[c]']	2nd
-76	phenylpropanoid derivatives	coumarins	umbelliferone biosynthesis	PWY-6982	['RXN-12965']	['cytosol']	['umbelliferone']	['hcoumarin[c]']	2nd
-77	phenylpropanoid derivatives	coumarins	linear furanocoumarin biosynthesis	PWY-5365	['BERGAPTOLMT']	['cytosol']	['bergapten']	['bergapten[c]']	2nd
-78	phenylpropanoid derivatives	coumarins	scopoletin biosynthesis	PWY-6792	['RXN-12350']	['cytosol']	['scopoletin']	['scopoletin[c]']	2nd
-79	phenylpropanoid derivatives	cinnamates	chlorogenic acid biosynthesis I	PWY-6039	['CAFFCOAMT']	['cytosol']	['feruloyl-CoA']	['ferulcoa[c]']	2nd
-80	phenylpropanoid derivatives	cinnamates	chlorogenic acid biosynthesis II	PWY-6040	['4COUMQD4H', '4COUMAROYLSKMH']	['cytosol']	['5-O-caffeoylshikimate', 'trans-5-O-caffeoyl-D-quinate']	['caffeoylskm[c]', 'caffeoylquin[c]']	2nd
-81	phenylpropanoid derivatives	cinnamates	cinnamoyl-CoA biosynthesis	PWY-6457	['CINNML']	['cytosol']	['trans-cinnamoyl-CoA']	['cinnamoylcoa[c]']	2nd
-82	phenylpropanoid derivatives	cinnamates	cinnamate esters biosynthesis	PWY-5968	['CINNMGT']	['cytosol']	['cinnamoyl-β-D-glucoside']	['trans_cnnmgide[c]']	2nd
-83	phenylpropanoid derivatives	cinnamates	eugenol and isoeugenol biosynthesis	PWY-5859	['RXN-9245', 'RXN-9246']	['cytosol']	['eugenol', 'isoeugenol']	['eugenol[c]', 'ieugenol[c]']	2nd
-84	phenylpropanoid derivatives	lignan	matairesinol biosynthesis	PWY-5466	['SDH', 'LARICIRESINOLR']	['cytosol']	['(+)-secoisolariciresinol', '(-)-matairesinol']	['psecoilariciresinol[c]', 'matairesinol[c]']	2nd
-85	phenylpropanoid derivatives	lignan	(+)-secoisolariciresinol diglucoside biosynthesis	PWY-7487	['RXN-15443']	['cytosol']	['(+)-secoisolariciresinol diglucoside']	['cpd16684[c]']	2nd
-86	phenylpropanoid derivatives	lignin	coniferin metabolism	PWY-116	['CONFRLGT']	['cytosol']	['coniferin']	['coniferin[c]']	2nd
-87	phenylpropanoid derivatives	other	phenylethanol biosynthesis	PWY-5751	['ALCD25xi', 'RXN-13536']	['cytosol']	['2-phenylethanol']	['2phetoh[c]']	2nd
-88	phenylpropanoid derivatives	other	caffeoylglucarate biosynthesis	PWY-6673	['2.3.1.98-RXN']	['cytosol']	['2-O-caffeoylglucarate']	['2ocafglucarate[c]']	2nd
-89	phenylpropanoid derivatives	other	benzoyl-β-D-glucopyranose biosynthesis	PWY-7468	['RXN-11660']	['cytosol']	['benzoyl-β-D-glucopyranose']	['bzbDglupyr[c]']	2nd
-90	toxins	phytoalexins	resveratrol biosynthesis	PWY-84	['RXN-7578', 'RXN-87', 'RXN-7575']	['cytosol']	['trans-resveratrol', '4-coumaroyltriacetate lactone', 'bis-noryangonin']	['resveratrol[c]', 'bny[c]', '4coumaroyl3ac_lac[c]']	2nd
-91	toxins	phytoalexins	capsidiol biosynthesis	PWY-2921	['3DEOXYCAPSIDIOLDH', '1DEOXYCAPSIDIOLDH']	['cytosol']	['capsidiol']	['capsidiol[c]']	2nd
-92	hormones	JA	jasmonic acid biosynthesis	PWY-735	['RXN-10708']	['chloroplast', 'peroxisome']	['(-)-jasmonate']	['jasmonate[x]']	2nd
-93	hormones	JA	jasmonoyl-amino acid conjugates biosynthesis II	PWY-6233	['RXN-10449', 'RXN-10455', 'RXN-10457', 'RXN-10459']	['cytosol']	['jasmonyl-L-isoleucine', 'jasmonyl-glutamine', 'jasmonyl-L-valine', 'jasmonyl-L-leucine']	['jalval[c]', 'jalglu[c]', 'jalleu[c]', 'jalile[c]']	2nd
-94	hormones	SA	salicylate biosynthesis I	PWY-6406	['SALSYN']	['cytosol', 'chloroplast']	['salicylate']	['salc[c]']	2nd
-95	hormones	SA	benzoyl-CoA biosynthesis	PWY-6458	['OXOCNNMCOAT']	['cytosol']	['benzoyl-CoA']	['benzcoa[c]']	2nd
-96	hormones	SA	salicylate biosynthesis II	PWY-981	['SALCS2']	['cytosol']	['salicylate']	['salc[c]']	2nd
-97	hormones	SA	methylsalicylate degradation	PWY18C3-24	['RXNQT-4366']	['cytosol']	['salicylate']	['salc[c]']	2nd
-98	hormones	SA	volatile benzenoid biosynthesis I (ester formation)	PWY-4203	['BSMT2']	['cytosol']	['methylsalicylate']	['msalicylate[c]']	2nd
-99	hormones	SA	salicylate glucosides biosynthesis IV	PWY-6762	['RXN-11658']	['cytosol']	['salicylate 2-O-β-D-glucoside (CPD-12628)']	['cpd12628[c]']	2nd
-100	hormones	Eth	ethylene biosynthesis I	ETHYL-PWY	['ACCOX_c']	['cytosol']	['ethene']	['ethe[c]']	2nd
-101	hormones	ABA	abscisic acid biosynthesis	PWY-695	['ABSCISICALOX']	['cytosol', 'chloroplast']	['2-cis-abscisate']	['abscisate[c]']	2nd
-102	hormones	ABA	abscisic acid biosynthesis shunt	PWY4FS-17	['RXN-19718', 'RXN-19715']	['cytosol']	['2-trans-abscisate', '2-cis-abscisate']	['abscisate[c]', '2tabscisate[c]']	2nd
-103	hormones	Auxins	indole-3-acetate biosynthesis I	PWYDQC-4	['RXNDQC-2']	['cytosol']	['(indol-3-yl)acetate']	['ind3ac[c]']	2nd
-104	hormones	Auxins	methyl indole-3-acetate interconversion	PWY-6303	['RXN-9825']	['cytosol']	['methyl (indol-3-yl)acetate']	['mind3ac[c]']	2nd
-105	hormones	Gibberellins	gibberellin A12 biosynthesis	PWY-5034	['GA12ALOX']	['cytosol']	['gibberellin A12']	['ga12[c]']	2nd
-106	hormones	Gibberellins	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	PWY-5070	['GA9OX', 'GA24OX', 'GA25H']	['cytosol']	['gibberellin A15', 'gibberellin A4', 'gibberellin A36', 'gibberellin A13']	['ga15[c]', 'ga36[c]', 'ga13[c]', 'ga4[c]']	2nd
-107	hormones	Gibberellins	gibberellin biosynthesis II (early C-3 hydroxylation)	PWY-5036	['GA36OX']	['cytosol']	['gibberellin A4']	['ga4[c]']	2nd
-108	hormones	Gibberellins	gibberellin biosynthesis III (early C-13 hydroxylation)	PWY-5035	['GA20OX2', 'GA19OX', 'GA44OX2']	['cytosol']	['gibberellin A1', 'gibberellin A17', 'gibberellin A38']	['ga38[c]', 'ga1[c]', 'ga17[c]']	2nd
-109	hormones	Cytokinins	cis-zeatin biosynthesis	PWY-2781	['CISZEATINS']	['cytosol']	['cis-zeatin']	['ciszeatin[c]']	2nd
-110	hormones	Cytokinins	trans-zeatin biosynthesis	PWY-2681	['ITRANSZEATINRBMPPRH', 'CKININS']	['cytosol']	['trans-zeatin']	['ckinin[c]']	2nd
-111	hormones	Cytokinins	cytokinins 7-N-glucoside biosynthesis	PWY-2881	['RXN-4727', 'RXN-4736', 'RXN-4733', 'RXN-4721']	['cytosol']	['isopentenyladenine-7-N-glucoside', 'trans-zeatin-7-N-glucoside', 'trans-zeatin-O-glucoside-7-N-glucoside', 'cis-zeatin-7-N-glucoside']	['ciszea7ngide[c]', 'transzeaOg7ngide[c]', 'isopentad7ng[c]', 'transzea7ngide[c]']	2nd
-112	hormones	Cytokinins	cytokinins 9-N-glucoside biosynthesis	PWY-2901	['RXN-4734', 'RXN-4728', 'RXN-4722']	['cytosol']	['trans-zeatin-9-N-glucoside', 'isopentenyladenine-9-N-glucoside', 'cis-zeatin-9-N-glucoside']	['isopentad9ng[c]', 'ciszea9ngide[c]', 'transzea9ngide[c]']	2nd
-113	hormones	Cytokinins	cytokinin-O-glucosides biosynthesis	PWY-2902	['CISZEATINGT', 'CKININGT']	['cytosol']	['cis-zeatin-O-glucoside', 'trans-zeatin-O-glucoside']	['transzeatinOgide[c]', 'ciszeatinOgide[c]']	2nd
-114	hormones	Brassinosteroids	brassinolide biosynthesis I	PWY-699	['RXN-720']	['cytosol']	['brassinolide']	['brassinolide[c]']	2nd
-115	hormones	Brassinosteroids	brassinolide biosynthesis II	PWY-2582	['RXN-720']	['cytosol']	['brassinolide']	['brassinolide[c]']	2nd
-116	other	FA der. prec.	linoleate synthesis	PWY-5995	['nan']	['chloroplast']	['linoleate']	['C18_2[hm]']	precursors
-117	other	FA der. prec.	alpha-linolenate synthesis	PWY-5997	['nan']	['chloroplast']	['alpha-linolenate']	['lnlnca[h]']	precursors
-118	other	FA derivatives	9-lipoxygenase and 9-allene oxide synthase pathway	PWY-5407	['RXN-8500', 'RXN-8501']	['chloroplast']	['9,10-epoxy-10,12Z,15Z-octadecatrienoate', '(12Z)-9-hydroxy-10-oxo-octadec-12-enoate']	['cpd8682[h]', 'cpd8683[h]']	2nd
-119	other	FA derivatives	divinyl ether biosynthesis I	PWY-5406	['RXN-8496', 'RXN-8498']	['chloroplast']	['colnelenate', 'colneleate']	['colnelenate[h]', 'colneleate[h]']	2nd
-120	other	FA derivatives	traumatin and (Z)-3-hexen-1-yl acetate biosynthesis	PWY-5410	['13SHPODEL', 'TRAUMATINS', 'RXN-11852', 'RXN-12299']	['chloroplast']	['traumatin', '1-hexanal', '(3Z)-hex-3-en-1-yl acetate', 'E2-hexenol']	['cpd12846[h]', 'hxal[h]', 'traumatin[h]', 'trans_2hexenol[h]']	2nd
-121	other	nitrogen-containing	hydroxycinnamic acid tyramine amides biosynthesis	PWY-5474	['TYMHCT2', 'TYMHT', 'TYMT', 'TYMHCT']	['cytosol']	['N-feruloyltyramine', '(4-coumaroyl)tyramine', 'sinapoyltyramine', 'cinnamoyltyramine']	['cinnamoyltyramine[c]', 'sinapoyltyramine[c]', 'feruloyltyramine[c]', 'pcoumaroyltyramine[c]']	2nd
-122	other	nitrogen-containing	spermidine hydroxycinnamic acid conjugates biosynthesis	PWY-6442	['RXN-11263']	['cytosol']	['dihydroxyferuloyl-sinapoyl spermidine']	['cpd11668[c]']	2nd
-123	other	sugar alcohols	mannitol biosynthesis	PWY-3881	['MANNITOL-1-PHOSPHATASE-RXN']	['cytosol']	['D-mannitol']	['mnl[c]']	2nd
-124	other	sugar alcohols	myo-inositol biosynthesis	PWY-2301	['MI3PP']	['cytosol']	['myo-inositol']	['inost[c]']	2nd
-125	other	sugar alcohols	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	PWY-6351	['PI_kh_r1', 'PI_kh_r2', 'PI_kh_r3', 'PI_kh_r4', 'PI_kh_r5', 'PI_kh_r6', 'PI_kh_r7', 'PI_kh_r8', 'PI_kh_r9', 'PI_kh_r10', 'PI_kh_r11', 'PI_kh_r12', 'PI_kh_r13', 'PI_kh_r14', 'PI_kh_r15', 'PI_kh_r16', 'PI_kh_r17']	['cytosol']	['D-myo-inositol (1,4,5)-trisphosphate']	['mi145p[c]']	2nd
-126	other	sugar alcohols	inositol diphosphates biosynthesis	PWY-6369	['RXN-10979', '2.7.4.24-RXN']	['cytosol']	['3,5-bisdiphosphoinositol-1D-myo-inositol 2,3,4,6-tetrakisphosphate', '1D-myo-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate']	['cpd11938[c]', 'cpd11939[c]']	2nd
-127	other	sugar alcohols	1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza)	PWY-4661	['MI13456PK']	['cytosol']	['phytate']	['minohp[c]']	2nd
-128	other	sugar alcohols	1D-myo-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	PWY-6554	['MI13456PK']	['cytosol']	['phytate']	['minohp[c]']	2nd
+	class	subclass	name	biocyc_pwy	compartment	precursors	precursor_ids	products	product_ids	last_rxns	type
+0	alkaloids	alk. prec.	cholesterol	PWY18C3-1	cytosol			['cholesterol']	['chsterol[c]']	['nan']	precursors
+1	alkaloids	alk. prec.	putrescine biosynthesis II	PWY-43	cytosol	L-arginine	arg_L_c	['putrescine']	['ptrc[c]']	['CMPA_1']	precursors
+2	alkaloids	alk. prec.	putrescine biosynthesis III	PWY-46	cytosol	L-arginine	arg_L_c	['putrescine']	['ptrc[c]']	['ORNDC']	precursors
+3	alkaloids	alk. prec.	spermidine biosynthesis I	BSUBPOLYAMSYN-PWY	cytosol	putrescine, S-adenosyl-L-methionine	ptrc_c, amet_c	['spermidine']	['spmd[c]']	['SPMS']	precursors
+4	alkaloids	alk. prec.	spermine biosynthesis	ARGSPECAT-PWY	cytosol	spermidine, S-adenosyl-L-methionine	spmd_c, amet_c	['spermine']	['sprm[c]']	['SPRMS']	precursors
+5	alkaloids	alk. prec.	(putrescine) spermine and spermidine degradation I	PWY-6117	cytosol	spermine	sprm_c	['putrescine']	['ptrc[c]']	['RE1537C']	precursors
+6	alkaloids	alk. prec.	(putrescine) spermine and spermidine degradation III	PWY-6441	cytosol	spermine	sprm_c	['putrescine']	['ptrc[c]']	['RXN-12089']	precursors
+7	alkaloids	alk. prec.	putrescine degradation IV	PWY-2	cytosol	putrescine	ptrc_c	['4-aminobutanoate', '1-pyrroline']	['4abut[c]', 'CE1944[c]']	['AMINOBUTDEHYDROG-RXN', 'RE0691C']	precursors
+9	alkaloids	alkaloids	alpha-solanine, alpha-chaconine	PWY-5666	cytosol	16α,22,26-trihydroxycholesterol	16_22_26_trihydchst_c	['solanidine', 'alpha-solanine', 'alpha-chaconine']	['solanidine[c]', 'a_sol[c]', 'a_chac[c]']	['Put_solanidine', 'RXN-8883', 'RXN-8884']	2nd
+11	alkaloids	alkaloids	solasodine and soladulcidine biosynthesis (solanine chaconine precursors)	PWY18C3-2	cytosol	cholesterol	chsterol_c	['16α,22,26-trihydroxycholesterol', 'solasodine']	['16_22_26_trihydchst[c]', 'solasodine[c]']	['RXN18C3-236', 'RXN18C3-7']	2nd
+12	alkaloids	alkaloids	solasodine glycosylation	PWY18C3-4	cytosol	solasodine	solasodine_c	['solasodine 3-O-β-D-galactoside', 'solasodine 3-O-β-D-glucoside']	['sol3ObDgals[c]', 'sol3ObDglus[c]']	['RXN18C3-13', 'RXN-12123']	2nd
+13	alkaloids	alkaloids	calystegines (1-methylpyrrolinium biosynthesis)	PWY-5315	cytosol	putrescine	ptrc_c	['1-methylpyrrolinium']	['1mpyr[c]']	['1MPYRS']	2nd
+14	alkaloids	alkaloids	calystegines	PWY-5318	cytosol	1-methylpyrrolinium	1mpyr_c	['calystegine A3']	['calystegine[c]']	['RXN-8258']	2nd
+18	alkaloids	alkaloids	tropane alkaloids biosynthesis	PWY-5317	cytosol	L-phenylalanine, L-methylpyrrolinium	phe_L_c, 1mpyr_c	['scopolamine', 'S-atropine']	['scopolamine[c]', 'hyoscyamine_L[c]']	['6SHHYOSCYAMINEH']	2nd
+20	terpenoids	terp. prec.	GGPP via mevanolate (cytosol)	PWY-922	cytosol	2-acetyl-coa	accoa_c	['prenyl diphoshate']	['dmpp[c]']	['IPDDI']	precursors
+21	terpenoids	terp. prec.	GGPP via mevanolate (cytosol)	PWY-5123	cytosol	prenyl diphosphate	dmpp_c	['(2E,6E)-farnesyl diphosphate[c]']	['frdp[c]']	['GRTT']	precursors
+22	terpenoids	terp. prec.	GGPP via mevanolate (cytosol)	PWY-5120	cytosol	(2E,6E)-farnesyl diphosphate	frdp_c	['geranylgeranyl diphoshate[c]']	['ggdp[c]']	['FARNESYLTRANSTRANSFERASE-RXN']	precursors
+24	terpenoids	terp. prec.	GGPP via MEP (chloroplast)	PWY-7560	chloroplast	D-glyceraldehyde 3-phosphate, pyruvate	g3p_h, pyr_h	['prenyl diphosphate', '3-methylbut-3-en-1-yl diphosphate']	['dmpp[h]', 'ipdp[h]']	['DMPPSh', 'IDS3', 'IPDPSh', 'IPDPS2h', 'IDIh']	precursors
+25	terpenoids	terp. prec.	GGPP via MEP (chloroplast)	PWY-5123	chloroplast	prenyl diphosphate	dmpp_h	['(2E,6E)-farnesyl diphosphate[h]']	['frdp[h]']	['FPPS_h']	precursors
+26	terpenoids	terp. prec.	GGPP via MEP (chloroplast)	PWY-5120	chloroplast	(2E,6E)-farnesyl diphosphate	frdp_h	['geranylgeranyl diphoshate[h]']	['ggdp[h]']	['GGPS_h']	precursors
+27	terpenoids	terp. prec.	GPP	PWY-5122	cytosol/chloroplast	DELTA3-ISOPENTENYL-PP	ipdp_h	['geranyl diphoshate[c]', 'geranyl diphoshate[h]']	['grdp[c]', 'grdp[h]']	['GPPS_h']	precursors
+28	terpenoids	terp. prec.	ent-kaurene biosynthesis I	PWY-5032	cytosol/chloroplast	GGPP	ggdp_c	['ent-kaurene']	['ientkaur16ene[c]']	['IENTKAUR16ENES']	precursors
+30	terpenoids	tetraterpenoid	carotenoids (lycopene syntesis)	PWY-6475	chloroplast	GGPP via MEP	ggdp_h	['lycopene']	['lycop[h]']	['RXN-8042']	2nd
+31	terpenoids	tetraterpenoid	carotenoids	PWY-5946	chloroplast	GGPP via MEP	ggdp_h	['alpha-carotene', 'delta-carotene']	['acaro[h]', 'dcaro[h]']	['DCAROC']	2nd
+32	terpenoids	tetraterpenoid	carotenoids	PWY-5943	chloroplast	GGPP via MEP	ggdp_h	['beta-carotene', 'gamma-carotene']	['caro[h]', 'gcarote[h]']	['GCATENEC']	2nd
+33	terpenoids	tetraterpenoid	carotenoids	PWY-5947	chloroplast	GGPP via MEP	ggdp_h	['lutein']	['lutein[h]']	['ZXANMO']	2nd
+34	terpenoids	tetraterpenoid	carotenoids	PWY-5944	chloroplast	GGPP via MEP	ggdp_h	['zeaxanthin']	['zeax[h]']	['RXN-8026']	2nd
+35	terpenoids	tetraterpenoid	carotenoids	PWY-5945	chloroplast	GGPP via MEP	ggdp_h	['violaxanthin']	['vioxan[h]']	['ANTHXANEPOX_h']	2nd
+36	terpenoids	tetraterpenoid	carotenoids	PWY-6809	chloroplast	GGPP via MEP	ggdp_h	['9-cis-neoxathin']	['9cneoxan[h]']	['9CNEOXANS']	2nd
+39	terpenoids	diterpenoid	phytyl diphosphate biosynthesis	PWY-5063	chloroplast	GGPP via MEP	ggdp_h	['phytyl diphosphate']	['phdp[h]']	['GGDPRh']	2nd
+40	terpenoids	diterpenoid	phytol salvage pathway	PWY-5107	chloroplast	phytol	phytol_h	['phytyl diphosphate']	['phdp[h]']	['RXN-7763']	2nd
+41	terpenoids	diterpenoid	cis-abienol biosynthesis	PWY18C3-13	chloroplast	GGPP via MEP	ggdp_h	['cis-abienol']	['cabienol[h]']	['RXN-13770']	2nd
+42	terpenoids	monoterpenoid	camphor biosynthesis	PWY-6990	chloroplast	GPP	grdp_h	['(+)-camphor']	['camphor[h]']	['BORNEOL-DEHYDROGENASE-RXN']	2nd
+44	terpenoids	monoterpenoid	(3R)-linalool biosynthesis	PWY-7709	chloroplast	prenyl diphosphate	dmpp_h	['(3R)-linalool']	['3Rlinalool[h]']	['DMATT']	2nd
+45	terpenoids	monoterpenoid	(3S)-linalool biosynthesis	PWY-7141	chloroplast	prenyl diphosphate	dmpp_h	['(3S)-linalool']	['3Slinalool[h]']	['3SLINALOOLS']	2nd
+46	terpenoids	monoterpenoid	geraniol and geranial biosynthesis	PWY-5829	chloroplast	GPP	grdp_h	['geraniol', 'neral']	['geraniol[h]', 'neral[h]']	['10HGERANIOLDH']	2nd
+47	terpenoids	monoterpenoid	geranyl acetate biosynthesis	PWY-5835	chloroplast	geraniol	geraniol_h	['geranyl acetate']	['gerac[h]']	['RXN-9192']	2nd
+48	terpenoids	monoterpenoid	nerol biosynthesis	PWY-8177	chloroplast	DELTA3-ISOPENTENYL-PP, prenyl diphosphate	ipdp_h, dmpp_h	['nerol']	['nerol[h]']	['RXN-21729']	2nd
+49	terpenoids	monoterpenoid	trichome monoterpenes biosynthesis	PWY-6447	chloroplast	prenyl diphosphate	dmpp_h	['(+)-2-carene', '(-)-α-pinene', 'α-phellandrene', '(4S)-limonene', 'α-terpinene', 'β-phellandrene']	['carene[h]', 'appnn[h]', 'aphedn[h]', 'limnen[h]', 'aterpn[h]', 'bphedn[h]']	['RXN-11282', 'RXN-11284', 'RXN-11286', 'RXN-11288', 'RXN-11279', 'RXN-8584']	2nd
+51	terpenoids	sesquiterpenoid	costunolide biosynthesis	PWY-6540	cytosol	farnesyl diphoshpate	frdp_c	['(+)-costunolide (12,6α)', 'inunolide', '8-epi-inunolide']	['costunolid[c]', 'inunolid[c]', '8einunolid[c]']	['RXN-15459', 'RXN-20055', 'RXN-20050']	2nd
+52	terpenoids	sesquiterpenoid	β-caryophyllene biosynthesis	PWY-6275	cytosol	farnesyl diphoshpate	frdp_c	['(-)-β-elemene', '(-)-β-caryophyllene', 'α-humulene']	['belemene[c]', 'Ebcaryophyllene[c]', 'ahumulene[c]']	['BELEMENES', 'EBCARYOPHYLLENES', 'AHUMULENES']	2nd
+53	terpenoids	sesquiterpenoid	farnesene biosynthesis	PWY-5725	cytosol	farnesyl diphoshpate	frdp_c	['(Z,E)-α-farnesene', '(E,E)-α-farnesene', '(E)-β-farnesene']	['ZEafarnesene[c]', 'EEafarnesene[c]', 'Ebfarnesene[c]']	['ZEAFARNESENES', 'EEAFARNESENES', 'EBFARNESENES']	2nd
+54	terpenoids	sesquiterpenoid	germacrene biosynthesis	PWY-5733	cytosol	farnesyl diphoshpate	frdp_c	['(+)-germacrene A', '(-)-germacrene D', '(E,E)-germacrene B', '(+)-germacrene D', 'germacrene C']	['germacreneA[c]', 'germacreneD[c]', 'EEgermacreneB[c]', 'germacrene_D[c]', 'germacreneC[c]']	['RXN-11527', 'GERMACRENEDS', 'EEGERMACRENEBS', 'GERMACRENEDS2', 'GERMACRENECS']	2nd
+55	terpenoids	sesquiterpenoid	valencene and 7-epi-α-selinene biosynthesis	PWY-6291	cytosol	farnesyl diphoshpate	frdp_c	['(+)-valencene', '7-epi-α-selinene']	['valencene[c]', 'selinene[c]']	['RXN-8608', 'RXN-8609']	2nd
+56	terpenoids	triterpenoid	epoxysqualene biosynthesis	PWY-5670	endoplasmic_reticulum	farnesyl diphoshpate	frdp_c	['S-2_3-Epoxysqualene']	['epoSQ[r]']	['SMO_r']	2nd
+57	terpenoids	triterpenoid	α-amyrin biosynthesis	PWY-5377	endoplasmic_reticulum	S-2_3-Epoxysqualene	epoSQ[r]	['α-amyrin']	['aamyrin[r]']	['AAMYRINS']	2nd
+58	terpenoids	triterpenoid	cycloartenol biosynthesis	PWY-8028	cytosol	S-2_3-Epoxysqualene	epoSQ[r]	['cycloartenol']	['cyart[c]']	['CS_r']	2nd
+59	terpenoids	triterpenoid	lupeol biosynthesis	PWY-112	endoplasmic_reticulum	S-2_3-Epoxysqualene	epoSQ[r]	['lupeol']	['lupeol[r]']	['LUPEOLS']	2nd
+60	terpenoids	triterpenoid	plant sterol biosynthesis II	PWY-6663	cytosol	S-2_3-Epoxysqualene	epoSQ[r]	['cholesterol']	['chsterol[c]']	['DSMSTOLR']	precursors
+61	terpenoids	triterpenoid	phytosterol biosynthesis (plants)	PWY-2541	endoplasmic_reticulum/cytosol	cycloartenol	cyart_c	['stigmasterol', 'campesterol', 'crinosterol', 'brassicasterol']	['Stigmasterol[r]', 'Campesterol[r]', 'crinosterol[c]', 'Brassicasterol[r]']	['CYP710A_r1', '24-DSR_r1', 'CRINOSTEROLS', 'CYP710A_r2']	2nd
+63	phenylpropanoid derivatives	phen. prec.	3-dehydroquinate biosynthesis I	PWY-6164	chloroplast	D-erythrose 4-phosphate, phosphoenolpyruvate	e4p_h, pep_h	['3-dehydroquinate']	['3dhq[h]']	['DHQS_h']	precursors
+64	phenylpropanoid derivatives	phen. prec.	chorismate biosyn from 3-dehydroquinate	PWY-6163	chloroplast	3-dehydroquinate	3dhq_h	['chorismate']	['chor[h]']	['CHRS_h']	precursors
+65	phenylpropanoid derivatives	phen. prec.	L-phenylalanine biosynthesis II	PWY-3462	chloroplast	chorismate	chor_h	['L-phenylalanine[h]', 'L-phenylalanine[c]']	['phe_L[h]', 'phe_L[c]']	['AGNDA_h']	precursors
+66	phenylpropanoid derivatives	phen. prec.	phenylpropanoid biosynthesis, initial reactions	PWY1F-467	cytosol	L-phenylalanine	phe_L_c	['4-coumarate']	['T4hcinnm[c]']	['CINNM4H']	precursors
+67	phenylpropanoid derivatives	phen. prec.	phenylpropanoid biosynthesis	PWY-361	cytosol	4-coumarate	T4hcinnm_c	['(E)-4-coumaroyl-CoA', '(E)-caffeoyl-CoA', 'sinapyl-alcohol', 'coniferyl-alcohol', '4-coumaryl alcohol']	['coucoa[c]', 'caffcoa[c]', 'sinapylalc[c]', 'confrl[c]', 'coumarylalc[c]']	['4CMCOAS', 'HCMT', 'SKMHCT', 'SAD', 'CONIALDHDH2', 'CADH']	precursors
+71	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	cytosol	pelargonidin, cyanidin, delphinidin to their glucoside alternatives		['pelargonidin-3-O-beta-D-glucoside', 'cyanidin 3,7-di-O-β-D-glucoside', 'delphinidin-3-O-beta-D-glucoside']	['pelargonidin3ogide[c]', 'cyan37diobdgide[c]', 'delphinidin3Ogide_D[c]']	['2.4.1.115-RXN-dhk', '2.4.1.115-RXN-dhq', '2.4.1.115-RXN-dhm']	2nd
+72	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	cytosol	kampferol -> quercetin -> myricetin		['kaempferol', 'quercetin', 'myricetin']	['kaempferol[c]', 'quercetin[c]', 'myricetin[c]']	['RXN-13192-kq', 'RXN-13192-qm']	2nd
+73	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	cytosol	naringenin ..-> genistin		['genistin']	['genistin[c]']	['nan']	2nd
+74	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	cytosol	p-hydroxybenzoic acid -> 1-O-4-hydroxybenzoyl-β-D-glucose, 1-O-(4-coumaroyl)-β-D-glucose,		['1-O-4-hydroxybenzoyl-β-D-glucose']	['1o4hydbenzbdglu[c]']	['nan']	2nd
+75	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	cytosol	p-hydroxybenzoic acid -> 1-O-4-hydroxybenzoyl-β-D-glucose, 1-O-(4-coumaroyl)-β-D-glucose,		['1-O-(4-coumaroyl)-β-D-glucose']	['1o4coubdglu[c]']	['p-Coumaroyl-GLU']	2nd
+76	phenylpropanoid derivatives	phen. prec.	4-hydroxybenzoate biosynthesis IV	PWY-6431	cytosol	4-coumarate	T4hcinnm_c	['4-hydroxybenzoate']	['4hbz[c]']	['HBZALD-OX-RXN']	precursors
+77	phenylpropanoid derivatives	phen. prec.	flavonoid precursors	flavonoid_precursors	cytosol	Cinnamoyl-CoA, Malonyl-CoA	cinnamoylcoa_c, malcoa_c	['pinocembrin chalcone']	['pinocembrin_chalcone[c]']	['nan']	2nd
+78	phenylpropanoid derivatives	flavonoids	flavonoid biosynthesis	PWY1F-FLAVSYN	cytosol	4-coumarate	T4hcinnm_c	['(+)-dihydrokaempferol', 'isoliquiritigenin']	['dhkaempferol[c]', 'iliquiritigenin[c]']	['NARINGENINH2', 'COUCOAR2']	2nd
+80	phenylpropanoid derivatives	flavonoids	pelargonidin conjugates biosynthesis	PWY-5139	cytosol	pelargonidin-3-O-β-D-glucoside	pelargonidin3ogide_c	['pelargonidin3Orutinoside5Ogide_D_c', 'pelargonidin3Ocaffeoylgide_D_c', 'pelargonidin3opcoumaroylgide_c', 'pelargonidin3O6Omalgide_D_c', 'pelargonidin35dgide_c']	['pelargonidin3Orutinoside5Ogide_D[c]', 'pelargonidin3Ocaffeoylgide_D[c]', 'pelargonidin3opcoumaroylgide[c]', 'pelargonidin3O6Omalgide_D[c]', 'pelargonidin35dgide[c]']	['PELARGONIDIN3ORUTINOSIDEGT', 'PELARGONIDIN3OGIDEAT', 'PELARGONIDIN3OGIDEHCT', 'PELARGONIDIN3OGIDEGMT', 'PELARGONIDIN3OGIDEGT']	2nd
+81	phenylpropanoid derivatives	flavonoids	salvianin biosynthesis	PWY-5268	cytosol	pelargonidin-3-O-β-D-glucoside	pelargonidin3ogide_c	['salvianin']	['salvianin[c]']	['NDPS']	2nd
+82	phenylpropanoid derivatives	flavonoids	cyanidin 3,7-diglucoside polyacylation biosynthesis	PWY-7464	cytosol	cyanidin 3,7-di-O-β-D-glucoside, 1-O-4-hydroxybenzoyl-β-D-glucose	cyan37diobdgide_c, 1o4hydbenzbdglu_c	['cyanidin 3-O-glucoside-7-O-(6-O-(4-O-(6-O-(p-hydroxybenzoyl)-glucosyl)-oxybenzoyl)-glucoside)']	['cpd16604[c]']	['RXN-15374']	2nd
+83	phenylpropanoid derivatives	flavonoids	anthocyanidin modification	PWY-7450	cytosol	cyanidin	cyanidin_c	['anthocyanin A11']	['cpd16540[c]']	['RXN-15333']	2nd
+84	phenylpropanoid derivatives	flavonoids	ternatin C5 biosynthesis	PWY-5295	cytosol	delphinidin-3-O-β-D-glucoside	delphinidin3Ogide_D_c	['ternatin C5']	['ternatinC5[c]']	['DELPHINIDIN3O6OMALBGIDE3OGIDEGT']	2nd
+85	phenylpropanoid derivatives	flavonoids	ternatin C3 biosynthesis	PWY-7280	cytosol	ternatin C5, 1-O-(4-coumaroyl)-β-D-glucose	ternatinC5_c, 1o4coubdglu_c	['ternatin C3']	['ternatinC3[c]']	['RXN-14496']	2nd
+86	phenylpropanoid derivatives	flavonoids	violdelphin biosynthesis	PWY-7458	cytosol	delphinidin-3-O-β-D-glucoside, 1-O-4-hydroxybenzoyl-β-D-glucose	delphinidin3Ogide_D_c, 1o4hydbenzbdglu_c	['violdelphin']	['violdelphin[c]']	['RXN-15354']	2nd
+87	phenylpropanoid derivatives	flavonoids	salvigenin biosynthesis	PWY-7325	cytosol	(2S)-naringenin	naringenin_c	['apigenin', 'salvigenin']	['apigenin[c]', 'salvigenin[c]']	['RXN-14752', 'RXN-15530']	2nd
+88	phenylpropanoid derivatives	flavonoids	apigenin glycosides biosynthesis	PWY-6010	cytosol	apigenin	apigenin_c	['7oDgylapigenin_c', 'apigenin7o6malgide_c', 'apigenin7oneohesperidoside_c', '7bDapiofuranosyl12bDgylapigenin_c']	['7oDgylapigenin[c]', 'apigenin7o6malgide[c]', 'apigenin7oneohesperidoside[c]', '7bDapiofuranosyl12bDgylapigenin[c]']	['7ODGYLAPIGENINMT', '7ODGYLAPIGENINRT', '7ODGYLAPIGENINAT']	2nd
+89	phenylpropanoid derivatives	flavonoids	luteolin glycosides biosynthesis	PWY-6239	cytosol	luteolin	luteolin_c	['luteolin 7-O-neohesperidoside', 'luteolin-7-O-gentiobioside']	['luteolin7oneohesperidoside[c]', 'cpd14825[c]']	['LUT7OHIDES', 'RXN-13801']	2nd
+90	phenylpropanoid derivatives	flavonoids	orientin and isoorientin biosynthesis I	PWY-7188	cytosol	(2S)-eriodictyol	eriodictyol_c	['orientin', 'isoorientin']	['orientin[c]', 'isoorientin[c]']	['RXN-14081', 'RXN-14082']	2nd
+91	phenylpropanoid derivatives	flavonoids	pinocembrin C-glucosylation	PWY-7189	cytosol	(2S)-pinocembrin	2S_pinocembrin_c	['8-C-glucosyl chrysin', '6-C-glucosyl chrysin']	['cpd15084[c]', 'cpd15087[c]']	['RXN-14087', 'RXN-14088']	2nd
+92	phenylpropanoid derivatives	flavonoids	syringetin biosynthesis	PWY-5391	cytosol	(+)-dihydrokaempferol	dhkaempferol_c	['(+)-taxifolin', 'myricetin', 'syringetin']	['itransdhquercetin[c]', 'myricetin[c]', 'syringetin[c]']	['RXN-8452']	2nd
+93	phenylpropanoid derivatives	flavonoids	flavonoid precursors	flavonoid_precursors	cytosol	(+)-taxifolin	itransdhquercetin_c	['quercetin']	['quercetin[c]']	['RXN-527']	2nd
+94	phenylpropanoid derivatives	flavonoids	polymethylated quercetin biosynthesis	PWY-7161	cytosol	quercetin	quercetin_c	"[""3,3'-dimethylquercetin"", ""3,7'-dimethylquercetin"", ""7,3'-dimethylquercetin"", ""7,4'-dimethylquercetin""]"	['33dmtquerc[c]', '37omquercetin[c]', '73dmtquerc[c]', '74dmtquerc[c]']	['RXN-13929', 'RXN-13930', '3OMQUERCETINMT', 'RXN-13932', 'RXN-13933', 'RXN-13934']	2nd
+95	phenylpropanoid derivatives	flavonoids	quercetin gentiotetraside biosynthesis	PWY-7137	cytosol	quercetin	quercetin_c	['quercetin-3-gentiotetraside']	['cpd14822[c]']	['RXN-13799']	2nd
+96	phenylpropanoid derivatives	flavonoids	kaempferol diglycoside biosynthesis	PWY-7191	cytosol	kaempferol	kaempferol_c	['kaempferol 3-O-β-D-glucosylgalactoside']	['cpd15105[c]']	['RXN-14108']	2nd
+97	phenylpropanoid derivatives	flavonoids	polymethylated kaempferol biosynthesis	PWY-7163	cytosol	kaempferol	kaempferol_c	"['3-O-methylkaempferol', ""3,4'-dimethylkaempferol"", ""7,4'-dimethylkaempferol""]"	['cpd14950[c]', '34dimetkmpfol[c]', '74dimetkmpfol[c]']	['RXN-13935', 'RXN-13937', 'RXN-13936']	2nd
+98	phenylpropanoid derivatives	flavonoids	myricetin gentiobioside biosynthesis	PWY-7140	cytosol	myricetin	myricetin_c	['myricetin 3-O-gentiobioside']	['cpd14843[c]']	['RXN-13822']	2nd
+99	phenylpropanoid derivatives	flavonoids	genistin gentiobioside biosynthesis	PWY-7145	cytosol	genistin	genistin_c	['genistin 7-gentiobioside']	['genistin7gentside[c]']	['RXN-13831']	2nd
+101	phenylpropanoid derivatives	coumarins	coumarins	PWY-5176	cytosol	cinnamate	cinnm_c	['coumarin']	['coumarin[c]']	['COUMARINS']	2nd
+103	phenylpropanoid derivatives	coumarins	umbelliferone biosynthesis	PWY-6982	cytosol	4-coumarate	T4hcinnm_c	['umbelliferone']	['hcoumarin[c]']	['RXN-12965']	2nd
+104	phenylpropanoid derivatives	coumarins	linear furanocoumarin biosynthesis	PWY-5365	cytosol	umbelliferone	hcoumarin_c	['bergapten']	['bergapten[c]']	['BERGAPTOLMT']	2nd
+105	phenylpropanoid derivatives	coumarins	scopoletin biosynthesis	PWY-6792	cytosol	(E)-caffeoyl-CoA	caffcoa_c	['scopoletin']	['scopoletin[c]']	['RXN-12350']	2nd
+106	phenylpropanoid derivatives	cinnamates	chlorogenic acid biosynthesis I	PWY-6039	cytosol	(E)-4-coumaroyl-CoA	coucoa_c	['feruloyl-CoA']	['ferulcoa[c]']	['CAFFCOAMT']	2nd
+107	phenylpropanoid derivatives	cinnamates	chlorogenic acid biosynthesis II	PWY-6040	cytosol	(E)-4-coumaroyl-CoA	coucoa_c	['trans-5-O-caffeoyl-D-quinate', '5-O-caffeoylshikimate']	['caffeoylquin[c]', 'caffeoylskm[c]']	['4COUMQD4H', '4COUMAROYLSKMH']	2nd
+108	phenylpropanoid derivatives	cinnamates	cinnamoyl-CoA biosynthesis	PWY-6457	cytosol	L-phenylalanine	phe_L_c	['trans-cinnamoyl-CoA']	['cinnamoylcoa[c]']	['CINNML']	2nd
+109	phenylpropanoid derivatives	cinnamates	cinnamate esters biosynthesis	PWY-5968	cytosol	cinnamate	cinnm_c	['cinnamoyl-β-D-glucoside']	['trans_cnnmgide[c]']	['CINNMGT']	2nd
+110	phenylpropanoid derivatives	cinnamates	eugenol and isoeugenol biosynthesis	PWY-5859	cytosol	coniferyl alc.	confrl_c	['eugenol', 'isoeugenol']	['eugenol[c]', 'ieugenol[c]']	['RXN-9245', 'RXN-9246']	2nd
+114	phenylpropanoid derivatives	lignan	matairesinol biosynthesis	PWY-5466	cytosol	coniferyl alc.	confrl_c	['(-)-matairesinol', '(+)-secoisolariciresinol']	['matairesinol[c]', 'psecoilariciresinol[c]']	['SDH', 'LARICIRESINOLR']	2nd
+115	phenylpropanoid derivatives	lignan	(+)-secoisolariciresinol diglucoside biosynthesis	PWY-7487	cytosol	(+)-secoisolariciresinol	psecoilariciresinol_c	['(+)-secoisolariciresinol diglucoside']	['cpd16684[c]']	['RXN-15443']	2nd
+117	phenylpropanoid derivatives	lignin	coniferin metabolism	PWY-116	cytosol	coniferyl alc.	confrl_c	['coniferin']	['coniferin[c]']	['CONFRLGT']	2nd
+120	phenylpropanoid derivatives	other	phenylethanol biosynthesis	PWY-5751	cytosol	L-phenylalanine	phe_L_c	['2-phenylethanol']	['2phetoh[c]']	['ALCD25xi', 'RXN-13536']	2nd
+121	phenylpropanoid derivatives	other	caffeoylglucarate biosynthesis	PWY-6673	cytosol	trans-caffeate	34dhcinm_c	['2-O-caffeoylglucarate']	['2ocafglucarate[c]']	['2.3.1.98-RXN']	2nd
+122	phenylpropanoid derivatives	other	benzoyl-β-D-glucopyranose biosynthesis	PWY-7468	cytosol	benzoate	bz_c	['benzoyl-β-D-glucopyranose']	['bzbDglupyr[c]']	['RXN-11660']	2nd
+123	toxins	phytoalexins	resveratrol biosynthesis	PWY-84	cytosol	(E)-4-coumaroyl-CoA	coucoa_c	['4-coumaroyltriacetate lactone', 'trans-resveratrol', 'bis-noryangonin']	['4coumaroyl3ac_lac[c]', 'resveratrol[c]', 'bny[c]']	['RXN-7578', 'RXN-87', 'RXN-7575']	2nd
+124	toxins	phytoalexins	capsidiol biosynthesis	PWY-2921	cytosol	farnesyl diphosphate	frdp_c	['capsidiol']	['capsidiol[c]']	['3DEOXYCAPSIDIOLDH', '1DEOXYCAPSIDIOLDH']	2nd
+127	hormones	JA	jasmonic acid biosynthesis	PWY-735	chloroplast/peroxisome	alpha-linolenate	C18_3[hm]	['(-)-jasmonate']	['jasmonate[c]']	['KAT_p28']	2nd
+128	hormones	JA	jasmonoyl-amino acid conjugates biosynthesis II	PWY-6233	cytosol	jasmonate	jasmonate_c	['jasmonyl-glutamine', 'jasmonyl-L-isoleucine', 'jasmonyl-L-valine', 'jasmonyl-L-leucine']	['jalglu[c]', 'jalile[c]', 'jalval[c]', 'jalleu[c]']	['RXN-10449', 'RXN-10455', 'RXN-10457', 'RXN-10459']	2nd
+129	hormones	SA	salicylate biosynthesis I	PWY-6406	cytosol/chloroplast	chorismate	chor_h	['salicylate']	['salc[c]']	['SALSYN']	2nd
+132	hormones	SA	benzoyl-CoA biosynthesis	PWY-6458	cytosol	(E)-cinnamoyl-CoA	cinnamoylcoa_c	['benzoyl-CoA']	['benzcoa[c]']	['OXOCNNMCOAT']	2nd
+133	hormones	SA	salicylate biosynthesis II	PWY-981	cytosol	benzoyl-CoA	benzcoa_c	['salicylate']	['salc[c]']	['SALCS2']	2nd
+135	hormones	SA	methylsalicylate degradation	PWY18C3-24	cytosol	methylsalicylate	msalicylate_c	['salicylate']	['salc[c]']	['RXNQT-4366']	2nd
+136	hormones	SA	volatile benzenoid biosynthesis I (ester formation)	PWY-4203	cytosol	salicylate	salc_c	['methylsalicylate']	['msalicylate[c]']	['BSMT2']	2nd
+137	hormones	SA	salicylate glucosides biosynthesis IV	PWY-6762	cytosol	salicylate	salc_c	['salicylate 2-O-β-D-glucoside (CPD-12628)']	['cpd12628[c]']	['RXN-11658']	2nd
+138	hormones	Eth	ethylene biosynthesis I	ETHYL-PWY	cytosol	L-methionine	met_L_c	['ethene']	['ethe[c]']	['ACCOX_c']	2nd
+139	hormones	ABA	abscisic acid biosynthesis	PWY-695	cytosol/chloroplast	violaxanthin	vioxan_h	['2-cis-abscisate']	['abscisate[c]']	['ABSCISICALOX']	2nd
+140	hormones	ABA	abscisic acid biosynthesis shunt	PWY4FS-17	cytosol	(+)-cis-abscisic aldehyde	abscisical_c	['2-cis-abscisate', '2-trans-abscisate']	['abscisate[c]', '2tabscisate[c]']	['RXN-19718', 'RXN-19715']	2nd
+142	hormones	Auxins	indole-3-acetate biosynthesis I	PWYDQC-4	cytosol	L-trytophan	trp_L_c	['(indol-3-yl)acetate']	['ind3ac[c]']	['NTRLASE']	2nd
+143	hormones	Auxins	methyl indole-3-acetate interconversion	PWY-6303	cytosol	(indol-3-yl)acetate	ind3ac_c	['methyl (indol-3-yl)acetate']	['mind3ac[c]']	['RXN-9825']	2nd
+145	hormones	Gibberellins	gibberellin A12 biosynthesis	PWY-5034	cytosol	ent-kaurene	ientkaur16ene_c	['gibberellin A12']	['ga12[c]']	['GA12ALOX']	2nd
+146	hormones	Gibberellins	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	PWY-5070	cytosol	gibberellin A12	ga12_c	['gibberellin A4', 'gibberellin A36', 'gibberellin A13', 'gibberellin A15']	['ga4[c]', 'ga36[c]', 'ga13[c]', 'ga15[c]']	['GA9OX', 'GA24OX', 'GA25H']	2nd
+147	hormones	Gibberellins	gibberellin biosynthesis II (early C-3 hydroxylation)	PWY-5036	cytosol	gibberellin A12, gibberellin A15	ga12_c, ga15_c	['gibberellin A4']	['ga4[c]']	['GA36OX']	2nd
+148	hormones	Gibberellins	gibberellin biosynthesis III (early C-13 hydroxylation)	PWY-5035	cytosol	gibberellin A12	ga12_c	['gibberellin A1', 'gibberellin A17', 'gibberellin A38']	['ga1[c]', 'ga17[c]', 'ga38[c]']	['GA20OX2', 'GA19OX', 'GA44OX2']	2nd
+149	hormones	Cytokinins	cis-zeatin biosynthesis	PWY-2781	cytosol	prenyl diphosphate	dmpp_c	['cis-zeatin']	['ciszeatin[c]']	['CISZEATINS']	2nd
+150	hormones	Cytokinins	trans-zeatin biosynthesis	PWY-2681	cytosol	prenyl diphosphate	dmpp_c	['trans-zeatin']	['ckinin[c]']	['ITRANSZEATINRBMPPRH', 'CKININS']	2nd
+151	hormones	Cytokinins	cytokinins 7-N-glucoside biosynthesis	PWY-2881	cytosol	PWY-2781, PWY-2681, PWY-2902		['isopentenyladenine-7-N-glucoside', 'trans-zeatin-O-glucoside-7-N-glucoside', 'cis-zeatin-7-N-glucoside', 'trans-zeatin-7-N-glucoside']	['isopentad7ng[c]', 'transzeaOg7ngide[c]', 'ciszea7ngide[c]', 'transzea7ngide[c]']	['RXN-4727', 'RXN-4736', 'RXN-4733', 'RXN-4721']	2nd
+152	hormones	Cytokinins	cytokinins 9-N-glucoside biosynthesis	PWY-2901	cytosol	PWY-2781, PWY-2681, PWY-2902		['cis-zeatin-9-N-glucoside', 'isopentenyladenine-9-N-glucoside', 'trans-zeatin-9-N-glucoside']	['ciszea9ngide[c]', 'isopentad9ng[c]', 'transzea9ngide[c]']	['RXN-4734', 'RXN-4728', 'RXN-4722']	2nd
+153	hormones	Cytokinins	cytokinin-O-glucosides biosynthesis	PWY-2902	cytosol	PWY-2781, PWY-2681, PWY-2901		['cis-zeatin-O-glucoside', 'trans-zeatin-O-glucoside']	['ciszeatinOgide[c]', 'transzeatinOgide[c]']	['CISZEATINGT', 'CKININGT']	2nd
+154	hormones	Brassinosteroids	brassinolide biosynthesis I	PWY-699	cytosol	campesterol	campol_c	['brassinolide']	['brassinolide[c]']	['RXN-720']	2nd
+155	hormones	Brassinosteroids	brassinolide biosynthesis II	PWY-2582	cytosol	campesterol	campol_c	['brassinolide']	['brassinolide[c]']	['RXN-720']	2nd
+158	other	FA der. prec.	linoleate synthesis	PWY-5995	chloroplast			['linoleate']	['C18_2[hm]']	['nan']	precursors
+159	other	FA der. prec.	alpha-linolenate synthesis	PWY-5997	chloroplast			['alpha-linolenate']	['C18_3[hm]']	['nan']	precursors
+161	other	FA derivatives	9-lipoxygenase and 9-allene oxide synthase pathway	PWY-5407	chloroplast	linoleate, alpha-linolenate	C18_2[hm], C18_3[hm]	['9,10-epoxy-10,12Z,15Z-octadecatrienoate', '(12Z)-9-hydroxy-10-oxo-octadec-12-enoate']	['cpd8682[h]', 'cpd8683[h]']	['RXN-8500', 'RXN-8501']	2nd
+162	other	FA derivatives	divinyl ether biosynthesis I	PWY-5406	chloroplast	linoleate, alpha-linolenate	C18_2[hm], C18_3[hm]	['colneleate', 'colnelenate']	['colneleate[h]', 'colnelenate[h]']	['RXN-8496', 'RXN-8498']	2nd
+163	other	FA derivatives	traumatin and (Z)-3-hexen-1-yl acetate biosynthesis	PWY-5410	chloroplast	linoleate, alpha-linolenate	C18_2[hm], C18_3[hm]	['1-hexanal', 'traumatin', '(3Z)-hex-3-en-1-yl acetate', 'E2-hexenol']	['hxal[h]', 'traumatin[h]', 'cpd12846[h]', 'trans_2hexenol[h]']	['13SHPODEL', 'TRAUMATINS', 'RXN-11852', 'RXN-12299']	2nd
+164	other	nitrogen-containing	hydroxycinnamic acid tyramine amides biosynthesis	PWY-5474	cytosol	L-tyrosine	tyr_L_c	['sinapoyltyramine', 'cinnamoyltyramine', 'N-feruloyltyramine', '(4-coumaroyl)tyramine']	['sinapoyltyramine[c]', 'cinnamoyltyramine[c]', 'feruloyltyramine[c]', 'pcoumaroyltyramine[c]']	['TYMHCT2', 'TYMHT', 'TYMT', 'TYMHCT']	2nd
+165	other	nitrogen-containing	spermidine hydroxycinnamic acid conjugates biosynthesis	PWY-6442	cytosol	(E)-4-coumaroyl-CoA, spermidine	coucoa_c, spmd_c	['dihydroxyferuloyl-sinapoyl spermidine']	['cpd11668[c]']	['RXN-11263']	2nd
+167	other	sugar alcohols	mannitol biosynthesis	PWY-3881	cytosol	β-D-fructofuranose 6-phosphate	f6p_c	['D-mannitol']	['mnl[c]']	['MANNITOL-1-PHOSPHATASE-RXN']	2nd
+169	other	sugar alcohols	myo-inositol biosynthesis	PWY-2301	cytosol	D-glucopyranose 6-phosphate		['myo-inositol']	['inost[c]']	['MI3PP']	2nd
+170	other	sugar alcohols	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	PWY-6351	cytosol	myo-inositol	inost_c	['D-myo-inositol (1,4,5)-trisphosphate']	['mi145p[c]']	['PI_kh_r1', 'PI_kh_r2', 'PI_kh_r3', 'PI_kh_r4', 'PI_kh_r5', 'PI_kh_r6', 'PI_kh_r7', 'PI_kh_r8', 'PI_kh_r9', 'PI_kh_r10', 'PI_kh_r11', 'PI_kh_r12', 'PI_kh_r13', 'PI_kh_r14', 'PI_kh_r15', 'PI_kh_r16', 'PI_kh_r17']	2nd
+172	other	sugar alcohols	inositol diphosphates biosynthesis	PWY-6369	cytosol	phytate	minohp_c	['3,5-bisdiphosphoinositol-1D-myo-inositol 2,3,4,6-tetrakisphosphate', '1D-myo-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate']	['cpd11939[c]', 'cpd11938[c]']	['RXN-10979', '2.7.4.24-RXN']	2nd
+173	other	sugar alcohols	1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza)	PWY-4661	cytosol	myo-inositol	inost_c	['phytate']	['minohp[c]']	['MI13456PK']	2nd
+174	other	sugar alcohols	1D-myo-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	PWY-6554	cytosol	D-myo-inositol (1,3,4)-trisphosphate	mi134p_c	['phytate']	['minohp[c]']	['MI13456PK']	2nd

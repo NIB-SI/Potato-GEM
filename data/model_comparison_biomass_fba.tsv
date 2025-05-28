@@ -1,0 +1,168 @@
+Class	compound	model	flux	num_rxns
+Amino acids	Ala	Potato-GEM	6438.961414215697	59
+Amino acids	Arg	Potato-GEM	6955.425843247423	98
+Amino acids	Asn	Potato-GEM	7070.158941496939	67
+Amino acids	Asp	Potato-GEM	6702.085340686622	72
+Amino acids	Cys	Potato-GEM	6913.996517935876	77
+Amino acids	Gln	Potato-GEM	7081.644135511642	75
+Amino acids	Glu	Potato-GEM	7032.3617204782895	74
+Amino acids	Gly	Potato-GEM	7022.0652298655905	67
+Amino acids	His	Potato-GEM	7865.535136812137	87
+Amino acids	Ile	Potato-GEM	6032.852614475934	81
+Amino acids	Leu	Potato-GEM	6699.953325939032	77
+Amino acids	Lys	Potato-GEM	6123.147353742316	78
+Amino acids	Met	Potato-GEM	6473.531359889724	97
+Amino acids	Phe	Potato-GEM	6497.7264179905615	75
+Amino acids	Pro	Potato-GEM	6512.201854359345	80
+Amino acids	Ser	Potato-GEM	6668.593482741036	73
+Amino acids	Thr	Potato-GEM	6230.347718952736	77
+Amino acids	Trp	Potato-GEM	6969.13456912875	91
+Amino acids	Tyr	Potato-GEM	6658.450195351939	78
+Amino acids	Val	Potato-GEM	6186.478329602794	70
+Amino acids	5-Oxopro	Potato-GEM	7126.685871917891	83
+Amino acids	GABA	Potato-GEM	7015.319040815719	77
+Amino acids	Ornithine	Potato-GEM	6621.163589569912	83
+Amino acids	beta-Ala	Potato-GEM	6672.772694864405	74
+Sugars & organic acids	Glucose	Potato-GEM	6619.756209746676	65
+Sugars & organic acids	Fructose	Potato-GEM	6605.567359023869	73
+Sugars & organic acids	Sucrose	Potato-GEM	6631.656883371414	69
+Sugars & organic acids	Glc6P	Potato-GEM	6577.189657578359	63
+Sugars & organic acids	Fruc6P	Potato-GEM	6563.000806855584	62
+Sugars & organic acids	E4P	Potato-GEM	6570.102326642314	70
+Sugars & organic acids	Citrate	Potato-GEM	7049.404400141274	73
+Sugars & organic acids	Isocitrate	Potato-GEM	7083.489759467336	72
+Sugars & organic acids	alpha-ketoglutarate	Potato-GEM	7221.518353730718	73
+Sugars & organic acids	Succinate	Potato-GEM	7401.144097764074	76
+Sugars & organic acids	Fumarate	Potato-GEM	6760.710632331448	62
+Sugars & organic acids	Malate	Potato-GEM	6731.397986509119	64
+Sugars & organic acids	Shikimate	Potato-GEM	6440.652566603819	74
+Sugars & organic acids	PEP	Potato-GEM	6829.915425889528	68
+Sugars & organic acids	3PGA	Potato-GEM	6797.971699515659	60
+Sugars & organic acids	Glycolate	Potato-GEM	7475.817379162341	64
+Sugars & organic acids	L-Ascorbate	Potato-GEM	7056.763410287802	75
+Sugars & organic acids	Glycerol	Potato-GEM	8528.975712316518	105
+Sugars & organic acids	Starch	Potato-GEM	6722.516758993986	67
+Lignin & cellulose prec.	Coumaryl alcohol	Potato-GEM	6422.6177614684475	83
+Lignin & cellulose prec.	Coniferyl alcohol	Potato-GEM	6836.726515450703	138
+Lignin & cellulose prec.	Sinapyl alcohol	Potato-GEM	6954.483268733847	140
+Lignin & cellulose prec.	Cellulose	Potato-GEM	6689.929141421054	73
+Lignin & cellulose prec.	Hemicellulose	Potato-GEM	6748.784529917382	71
+Chlorophylles	Chlorophyll A	Potato-GEM	6406.163714973536	162
+Chlorophylles	Chlorophyll B	Potato-GEM	6444.981265787002	157
+Minerals	K	Potato-GEM	1001.0	2
+Minerals	Ca	Potato-GEM	1001.0	2
+Minerals	Mg	Potato-GEM	1001.0	2
+Minerals	Fe	Potato-GEM	1001.0	2
+Minerals	NO3	Potato-GEM	1001.0	2
+Minerals	SO4	Potato-GEM	1001.0	2
+Minerals	Na	Potato-GEM	1001.0	2
+Minerals	Pi	Potato-GEM	1001.0	2
+Minerals	Cl	Potato-GEM	1001.0	2
+Nucleic acids	AMP	Potato-GEM	7664.888760396288	94
+Nucleic acids	CMP	Potato-GEM	7264.823221221287	95
+Nucleic acids	GMP	Potato-GEM	7888.197997697524	101
+Nucleic acids	UMP	Potato-GEM	7069.874258991242	94
+Nucleic acids	dAMP	Potato-GEM	7601.1389749461605	99
+Nucleic acids	dCMP	Potato-GEM	7286.929445677703	100
+Nucleic acids	dGMP	Potato-GEM	7818.109766439001	107
+Nucleic acids	dTMP	Potato-GEM	7148.922663333544	103
+Lipids	Lipids	Potato-GEM	6509.748580113564	601
+Amino acids	Ala	VYTOP	7422.660714285726	36
+Amino acids	Arg	VYTOP	8593.427197802255	75
+Amino acids	Asn	VYTOP	8038.303571428576	42
+Amino acids	Asp	VYTOP	7897.019230769226	39
+Amino acids	Cys	VYTOP	6822.829670329659	55
+Amino acids	Gln	VYTOP	8336.76020408164	69
+Amino acids	Glu	VYTOP	8322.325783972121	63
+Amino acids	Gly	VYTOP	9368.803216650756	70
+Amino acids	His	VYTOP	9767.876623376616	71
+Amino acids	Ile	VYTOP	6844.064285714289	42
+Amino acids	Leu	VYTOP	7645.620879120881	67
+Amino acids	Lys	VYTOP	7035.732142857142	39
+Amino acids	Met	VYTOP	6944.064285714304	66
+Amino acids	Phe	VYTOP	7292.748796147647	51
+Amino acids	Pro	VYTOP	7754.4866071428605	71
+Amino acids	Ser	VYTOP	8547.40683229814	41
+Amino acids	Thr	VYTOP	7214.316964285712	44
+Amino acids	Trp	VYTOP	7682.549603174607	63
+Amino acids	Tyr	VYTOP	7482.98588039868	49
+Amino acids	Val	VYTOP	7035.735119047621	31
+Amino acids	5-Oxopro	VYTOP	8489.821428571435	68
+Amino acids	GABA	VYTOP	8243.928571428565	65
+Amino acids	Ornithine	VYTOP	8084.843750000005	70
+Amino acids	beta-Ala	VYTOP	8966.648181011511	63
+Sugars & organic acids	Glucose	VYTOP	7414.702380952384	36
+Sugars & organic acids	Fructose	VYTOP	7394.861111111108	37
+Sugars & organic acids	Sucrose	VYTOP	7393.0307994757895	39
+Sugars & organic acids	Citrate	VYTOP	8128.074912891979	60
+Sugars & organic acids	Isocitrate	VYTOP	8180.339721254376	61
+Sugars & organic acids	alpha-ketoglutarate	VYTOP	8408.862781954924	62
+Sugars & organic acids	Succinate	VYTOP	8410.749999999984	51
+Sugars & organic acids	Fumarate	VYTOP	7402.513736263734	36
+Sugars & organic acids	Malate	VYTOP	7443.722527472502	36
+Sugars & organic acids	Glycolate	VYTOP	9165.520089285714	68
+Sugars & organic acids	L-Ascorbate	VYTOP	7934.35936631478	44
+Sugars & organic acids	Glycerol	VYTOP	7017.892857142851	28
+Sugars & organic acids	Starch	VYTOP	7391.253246753244	36
+Lignin & cellulose prec.	Coumaryl alcohol	VYTOP	7105.36785714285	57
+Lignin & cellulose prec.	Coniferyl alcohol	VYTOP	7239.204681872722	73
+Lignin & cellulose prec.	Sinapyl alcohol	VYTOP	7351.715838509191	75
+Lignin & cellulose prec.	Cellulose	VYTOP	7391.253246753228	39
+Lignin & cellulose prec.	Hemicellulose	VYTOP	7896.1588921282755	41
+Chlorophylles	Chlorophyll A	VYTOP	7505.623346561006	116
+Chlorophylles	Chlorophyll B	VYTOP	7449.542922673599	125
+Minerals	K	VYTOP	2001.0	2
+Minerals	Ca	VYTOP	2001.0	2
+Minerals	Mg	VYTOP	2001.0	2
+Minerals	NO3	VYTOP	2001.0	2
+Minerals	SO4	VYTOP	2001.0	2
+Minerals	Na	VYTOP	2001.0	2
+Minerals	Pi	VYTOP	2001.0	2
+Minerals	Cl	VYTOP	2001.0	2
+Nucleic acids	AMP	VYTOP	9392.208994708995	69
+Nucleic acids	CMP	VYTOP	8129.0849370836295	60
+Nucleic acids	GMP	VYTOP	9674.120535714164	77
+Nucleic acids	UMP	VYTOP	7960.494730679219	53
+Nucleic acids	dAMP	VYTOP	9164.879568106415	75
+Nucleic acids	dCMP	VYTOP	8085.388425443201	68
+Nucleic acids	dGMP	VYTOP	9468.38640275391	76
+Nucleic acids	dTMP	VYTOP	8009.410244361042	73
+Sugars & organic acids	Starch	AraCore	4919.807957393501	51
+Sugars & organic acids	Glucose	AraCore	4863.113095238095	54
+Nucleic acids	AMP	AraCore	4825.519618772411	88
+Nucleic acids	UMP	AraCore	5373.2210162313	71
+Sugars & organic acids	Sucrose	AraCore	4776.794642852651	87
+Sugars & organic acids	Fructose	AraCore	4761.922619047612	51
+Lignin & cellulose prec.	Cellulose	AraCore	4836.318452380948	55
+Sugars & organic acids	Succinate	AraCore	5880.600446428578	63
+Sugars & organic acids	Fumarate	AraCore	5991.0915178571395	65
+Sugars & organic acids	Malate	AraCore	5035.750000000009	39
+Sugars & organic acids	Shikimate	AraCore	4634.369047620068	59
+Amino acids	Ornithine	AraCore	4667.695773296869	79
+Amino acids	Gln	AraCore	4953.378642501784	63
+Amino acids	Asp	AraCore	4546.912202380955	36
+Amino acids	Glu	AraCore	4789.997913188647	64
+Amino acids	Asn	AraCore	5642.111830357149	53
+Amino acids	Ser	AraCore	4554.8117879054025	52
+Amino acids	Cys	AraCore	7136.485824175821	94
+Amino acids	GABA	AraCore	4784.8106964059125	69
+Amino acids	Thr	AraCore	4551.852172312223	60
+Amino acids	Gly	AraCore	4491.108630952382	43
+Amino acids	Met	AraCore	5784.287193588413	86
+Amino acids	Pro	AraCore	4705.284855179186	66
+Nucleic acids	CMP	AraCore	5557.947542759356	75
+Nucleic acids	GMP	AraCore	5099.715321805828	96
+Nucleic acids	dAMP	AraCore	4836.71490299824	91
+Nucleic acids	dCMP	AraCore	5666.854821428621	79
+Nucleic acids	dGMP	AraCore	5100.145501893949	97
+Nucleic acids	dTMP	AraCore	5568.687735651446	90
+Amino acids	Ala	AraCore	4714.32629870153	40
+Amino acids	Arg	AraCore	4705.841478703081	82
+Amino acids	Lys	AraCore	4375.01785714289	48
+Amino acids	His	AraCore	4799.226557215057	77
+Amino acids	Ile	AraCore	4327.397619047613	57
+Amino acids	Leu	AraCore	4899.511934673333	92
+Amino acids	Phe	AraCore	4273.742011278368	64
+Amino acids	Trp	AraCore	4519.017281106381	72
+Amino acids	Tyr	AraCore	4399.001152073734	64
+Amino acids	Val	AraCore	4351.887175329019	51

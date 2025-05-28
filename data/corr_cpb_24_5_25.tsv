@@ -1,0 +1,442 @@
+r	p	pws_x	class_x	subclass_x	plt_ind2_x	pws_y	class_y	subclass_y	plt_ind2_y	direction_x	direction_y	rev_dir
+1.0	0.0	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.22373300640420546	8.238564562992463e-13	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.2751377991377991	7.9075072375172095e-19	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.021102321102321103	0.5050573254797271	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.9477052797052797	0.0	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.8501795501795502	2.6441770440945287e-280	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.8275042555042555	2.0139581720829784e-252	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.8394258234258235	1.5372172293063704e-266	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.0971940491940492	0.0020910292649355972	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.27475750675750676	8.864426624799652e-19	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.24292562692562694	6.7357190349508704e-15	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.08850648450648452	0.005097321501194415	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.2751377991377991	7.9075072375172095e-19	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.15327136527136528	1.1182196982315719e-06	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.512907308907309	3.432116162013342e-68	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.9611466491466493	0.0	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.9423273303273304	0.0	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.20699624699624702	3.860922540377828e-11	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.2751377991377991	7.9075072375172095e-19	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.2807845487845488	1.4196058304484614e-19	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.19923377523377525	2.0670699995184119e-10	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+0.2237330064042054	8.238564562992613e-13	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+1.0	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.9571878360593995	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.8005464169480562	3.6852962148796584e-224	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.3011670380705392	2.0592979174539452e-22	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.0665863387860978	0.03526100868783892	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.12577478415210852	6.657069364665241e-05	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.13175642415169342	2.921173813757654e-05	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.7640858203780779	3.4388886702190622e-192	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.9571879140594779	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.9004262131274919	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.8857883344456995	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.9571878360593995	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.8139939964359785	1.1083188369885047e-237	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.3873627945248829	3.793449398261463e-37	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.1312466156403555	3.13801213102587e-05	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.3156440865910189	1.4289897071771899e-24	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.9081983089229039	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.9571878360593995	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.9667118016119371	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.9260293188074069	0.0	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.2751377991377991	7.9075072375172095e-19	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9571878360593995	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+1.0	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.8242415722415722	9.533711577002997e-249	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.35255371655371653	1.2268932910524185e-30	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.11933678333678334	0.00015522044608992327	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.17705654105654106	1.7343356619153234e-08	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.1291767571767572	4.185474529399579e-05	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.7980529740529742	9.118414166181439e-222	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.9995193515193516	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.9412048132048132	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.9206126606126606	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+1.0	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8623804903804905	2.7032041871511788e-297	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.41157875157875157	3.656329042002899e-42	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.20952727752727754	2.201953625149991e-11	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.3634754434754435	1.3544487263094867e-32	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.9494407094407096	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+1.0	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.9904815544815546	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.9542050022050023	0.0	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+0.021102321102321103	0.5050573254797271	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.8005464169480562	3.6852962148796584e-224	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.8242415722415722	9.533711577002997e-249	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+1.0	0.0	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.06399417999418	0.043050814807882753	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.08236429036429037	0.009167110388869916	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.009116817116817118	0.7733892428779621	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.19066169866169866	1.2203574733653293e-09	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.9013959493959495	0.0	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.8248993168993168	1.7559376289775566e-249	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.7984765504765505	3.595100032358716e-222	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.941998121998122	0.0	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.8242415722415722	9.533711577002997e-249	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.7226166626166627	3.1491907139472747e-162	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.10467687267687267	0.0009159578589631191	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.027316755316755315	0.38818570630847904	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.07405669405669407	0.019172184479154714	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.7894364614364614	9.512912801041466e-214	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.8242415722415722	9.533711577002997e-249	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.8135093975093974	3.555381608232619e-237	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.8868290988290989	0.0	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+0.9477052797052797	0.0	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.3011670380705392	2.0592979174539452e-22	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.35255371655371653	1.2268932910524185e-30	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.06399417999418	0.043050814807882753	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+1.0	0.0	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.8349633189633191	4.009926701113732e-261	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.8221865101865102	1.8000999147605226e-246	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.7903677823677824	1.3487061061421872e-214	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.20563440163440164	5.2075062900240696e-11	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.351953895953896	1.5634570701401795e-30	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.31582880782880784	1.3387578593910892e-24	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.18956115356115358	1.5239199488429292e-09	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.35255371655371653	1.2268932910524185e-30	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.21853974253974254	2.8120341231382205e-12	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.5424374544374545	1.4035818061644953e-77	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.9161355401355402	0.0	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.9982022782022784	0.0	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.28312301512301513	6.889627501283189e-20	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.35255371655371653	1.2268932910524185e-30	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.35889703089703096	9.150848716607929e-32	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.2825640905640906	8.194291634860984e-20	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.8501795501795502	2.6441770440945287e-280	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.0665863387860978	0.03526100868783892	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.11933678333678334	0.00015522044608992327	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.08236429036429037	0.009167110388869916	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.8349633189633191	4.009926701113732e-261	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+1.0	0.0	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.9351063831063832	0.0	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.8117187557187558	2.5624658011457828e-235	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.08343059943059944	0.008300135218658944	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.11905636705636706	0.0001609002293110613	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.012293700293700294	0.6978018954745305	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.0009151689151689151	0.9769411616704343	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.11933678333678334	0.00015522044608992327	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.011907851907851909	0.706841286993457	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.5316450636450637	4.857741384119127e-74	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.8263835143835144	3.759842376059897e-251	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.8311544671544672	1.2573420032061032e-256	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.04481835281835282	0.1567111606522193	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.11933678333678334	0.00015522044608992327	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.11281422481422483	0.0003509600271359696	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.05000881400881401	0.11400875438116766	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+-0.8275042555042555	2.0139581720829784e-252	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.12577478415210852	6.657069364665241e-05	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.17705654105654106	1.7343356619153234e-08	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.009116817116817118	0.7733892428779621	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.8221865101865102	1.8000999147605226e-246	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.9351063831063832	0.0	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+1.0	0.0	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.7696299016299017	1.1472419068746203e-196	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.2014178134178134	1.2979907355006612e-10	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.1745898665898666	2.7469793129142892e-08	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.06333794733794734	0.04523877640942157	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.0946013746013746	0.002748639644437208	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.17705654105654106	1.7343356619153234e-08	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.06216793416793416	0.04937199102646371	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.5298272538272538	1.862295459845904e-73	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.8162490962490963	4.6694809593259945e-240	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.8179265059265061	7.603932973162733e-242	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.1086941406941407	0.0005750499061093931	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.17705654105654106	1.7343356619153234e-08	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.16424061224061223	1.7628214264308396e-07	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.12688511488511492	5.7287350644521294e-05	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+0.8394258234258235	1.5372172293063704e-266	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.13175642415169342	2.921173813757654e-05	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.1291767571767572	4.185474529399579e-05	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.19066169866169866	1.2203574733653293e-09	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.7903677823677824	1.3487061061421872e-214	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.8117187557187558	2.5624658011457828e-235	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.7696299016299017	1.1472419068746203e-196	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+1.0	0.0	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.09207378807378808	0.0035662494933759877	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.12554899754899757	6.862478445574494e-05	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.0382013302013302	0.22744686018032653	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.07729834129834129	0.014485621874889802	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.1291767571767572	4.185474529399579e-05	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.015576507576507578	0.6227291017835708	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.5729943569943571	2.4914971787777525e-88	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.7760669600669601	5.026416498516002e-202	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.7840507960507961	6.328528492783519e-209	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.12115995715995717	0.0001226441663400759	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.1291767571767572	4.185474529399579e-05	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.13715980115980114	1.3457240634173869e-05	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.039442851442851444	0.21268458376714394	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.0971940491940492	0.0020910292649355972	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.7640858203780778	3.4388886702204315e-192	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.7980529740529742	9.118414166181439e-222	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.9013959493959495	0.0	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.20563440163440164	5.2075062900240696e-11	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.08343059943059944	0.008300135218658944	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.2014178134178134	1.2979907355006612e-10	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.09207378807378808	0.0035662494933759877	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+1.0	0.0	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.7987630507630509	1.9132056808605953e-222	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.7283227283227284	5.092776096508516e-166	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.941961281961282	0.0	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.7980529740529742	9.118414166181439e-222	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.6072343392343392	8.40065827690284e-102	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.2637698037698038	2.2260432561028596e-17	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.09077303477303478	0.00406802841511971	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.21700879300879303	4.014722681464366e-12	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.7159802359802361	6.159054876302724e-158	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.7980529740529742	9.118414166181439e-222	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.7900660660660661	2.54238751605986e-214	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.8579560739560741	5.973682051963346e-291	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+-0.27475750675750676	8.864426624799652e-19	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9571879140594779	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.9995193515193516	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.8248993168993168	1.7559376289775566e-249	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.351953895953896	1.5634570701401795e-30	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.11905636705636706	0.0001609002293110613	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.1745898665898666	2.7469793129142892e-08	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.12554899754899757	6.862478445574494e-05	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.7987630507630509	1.9132056808605953e-222	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+1.0	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.9425747225747226	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.9211953091953092	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.9995193515193516	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8630240390240391	3.0948455112075626e-298	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.4116599556599557	3.5117042257498634e-42	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.2085788445788446	2.7199490159130984e-11	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.36304315504315504	1.6243532658384018e-32	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.9475221475221475	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.9995193515193516	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.990983166983167	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.9554401994401995	0.0	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+-0.24292562692562694	6.7357190349508704e-15	PWY-5410	other	FA derivatives	other | traumatin biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9004262131274918	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.9412048132048132	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.7984765504765505	3.595100032358716e-222	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.31582880782880784	1.3387578593910892e-24	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.012293700293700294	0.6978018954745305	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.06333794733794734	0.04523877640942157	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.0382013302013302	0.22744686018032653	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.7283227283227284	5.092776096508516e-166	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.9425747225747226	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+1.0	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.8799927279927281	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.9412048132048132	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8216884256884256	6.346191991020664e-246	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.31071877071877074	7.998428644337892e-24	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.20181287781287782	1.1925391488783076e-10	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.3251046731046731	4.7693506099228737e-26	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.9221956661956663	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.9412048132048132	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.9391227031227032	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.9104054984054984	0.0	PWY-5410	other	FA derivatives	other | traumatin biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+0.08850648450648452	0.005097321501194415	PWY-6174	primary		precursors | mevalonate pathway II	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.8857883344456995	0.0	PWY-6174	primary		precursors | mevalonate pathway II	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.9206126606126606	0.0	PWY-6174	primary		precursors | mevalonate pathway II	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.941998121998122	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.18956115356115358	1.5239199488429292e-09	PWY-6174	primary		precursors | mevalonate pathway II	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.0009151689151689151	0.9769411616704343	PWY-6174	primary		precursors | mevalonate pathway II	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.0946013746013746	0.002748639644437208	PWY-6174	primary		precursors | mevalonate pathway II	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.07729834129834129	0.014485621874889802	PWY-6174	primary		precursors | mevalonate pathway II	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.941961281961282	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.9211953091953092	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.8799927279927281	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+1.0	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.9206126606126606	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.7564726324726325	3.065775882587845e-186	PWY-6174	primary		precursors | mevalonate pathway II	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.28659949059949064	2.3221179164690918e-20	PWY-6174	primary		precursors | mevalonate pathway II	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.05926245526245527	0.06102060471236718	PWY-6174	primary		precursors | mevalonate pathway II	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.2006980886980887	1.5139753899394017e-10	PWY-6174	primary		precursors | mevalonate pathway II	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.8766270726270726	2.47547e-319	PWY-6174	primary		precursors | mevalonate pathway II	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.9206126606126606	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.9102120942120943	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.9526198126198127	0.0	PWY-6174	primary		precursors | mevalonate pathway II	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.2751377991377991	7.9075072375172095e-19	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9571878360593995	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+1.0	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.8242415722415722	9.533711577002997e-249	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.35255371655371653	1.2268932910524185e-30	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.11933678333678334	0.00015522044608992327	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.17705654105654106	1.7343356619153234e-08	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.1291767571767572	4.185474529399579e-05	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.7980529740529742	9.118414166181439e-222	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.9995193515193516	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.9412048132048132	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.9206126606126606	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+1.0	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8623804903804905	2.7032041871511788e-297	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.41157875157875157	3.656329042002899e-42	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.20952727752727754	2.201953625149991e-11	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.3634754434754435	1.3544487263094867e-32	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.9494407094407096	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+1.0	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.9904815544815546	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.9542050022050023	0.0	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+0.15327136527136528	1.1182196982315719e-06	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.8139939964359785	1.1083188369885047e-237	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.8623804903804905	2.7032041871511788e-297	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.7226166626166627	3.1491907139472747e-162	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.21853974253974254	2.8120341231382205e-12	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.011907851907851909	0.706841286993457	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.06216793416793416	0.04937199102646371	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.015576507576507578	0.6227291017835708	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.6072343392343392	8.40065827690284e-102	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.8630240390240391	3.0948455112075626e-298	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.8216884256884256	6.346191991020664e-246	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.7564726324726325	3.065775882587845e-186	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.8623804903804905	2.7032041871511788e-297	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+1.0	0.0	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.15966113166113166	3.870806766885445e-07	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.11570405570405572	0.0002457696914387595	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.2252043332043332	5.785847040336208e-13	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.8272861192861193	3.565949993156706e-252	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.8623804903804905	2.7032041871511788e-297	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.860940512940513	3.3171500427358554e-295	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.8040619920619921	1.3596959963562096e-227	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.512907308907309	3.432116162013342e-68	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.3873627945248829	3.793449398261463e-37	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.41157875157875157	3.656329042002899e-42	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.10467687267687267	0.0009159578589631191	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.5424374544374545	1.4035818061644953e-77	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.5316450636450637	4.857741384119127e-74	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.5298272538272538	1.862295459845904e-73	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.5729943569943571	2.4914971787777525e-88	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.2637698037698038	2.2260432561028596e-17	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.4116599556599557	3.5117042257498634e-42	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.31071877071877074	7.998428644337892e-24	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.28659949059949064	2.3221179164690918e-20	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.41157875157875157	3.656329042002899e-42	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.15966113166113166	3.870806766885445e-07	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+1.0	0.0	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.42529230529230533	3.417894635758894e-45	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.5487760767760769	1.018268947532995e-79	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.42123895323895333	2.778295164532832e-44	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.41157875157875157	3.656329042002899e-42	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.39896149496149497	1.6919620011396917e-39	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.3813819333819334	5.686432161735323e-36	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+-0.9611466491466493	0.0	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.1312466156403555	3.13801213102587e-05	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.20952727752727754	2.201953625149991e-11	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.027316755316755315	0.38818570630847904	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.9161355401355402	0.0	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.8263835143835144	3.759842376059897e-251	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.8162490962490963	4.6694809593259945e-240	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.7760669600669601	5.026416498516002e-202	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.09077303477303478	0.00406802841511971	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.2085788445788446	2.7199490159130984e-11	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.20181287781287782	1.1925391488783076e-10	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.05926245526245527	0.06102060471236718	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.20952727752727754	2.201953625149991e-11	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.11570405570405572	0.0002457696914387595	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.42529230529230533	3.417894635758894e-45	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+1.0	0.0	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.9039394359394362	0.0	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.16644760644760645	1.1971992625598075e-07	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.20952727752727754	2.201953625149991e-11	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.20016785616785615	1.695145999240789e-10	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.14990212190212193	1.923311089668946e-06	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+0.9423273303273304	0.0	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.3156440865910189	1.4289897071771899e-24	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.3634754434754435	1.3544487263094867e-32	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.07405669405669407	0.019172184479154714	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.9982022782022784	0.0	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.8311544671544672	1.2573420032061032e-256	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.8179265059265061	7.603932973162733e-242	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.7840507960507961	6.328528492783519e-209	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.21700879300879303	4.014722681464366e-12	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.36304315504315504	1.6243532658384018e-32	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.3251046731046731	4.7693506099228737e-26	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.2006980886980887	1.5139753899394017e-10	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.3634754434754435	1.3544487263094867e-32	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.2252043332043332	5.785847040336208e-13	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.5487760767760769	1.018268947532995e-79	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.9039394359394362	0.0	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+1.0	0.0	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.2895613215613216	9.083067057770975e-21	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.3634754434754435	1.3544487263094867e-32	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+0.37140788340788344	4.591897344568832e-34	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.2952549912549913	1.4484003104196734e-21	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.20699624699624702	3.860922540377828e-11	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9081983089229039	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.9494407094407096	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.7894364614364614	9.512912801041466e-214	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.28312301512301513	6.889627501283189e-20	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.04481835281835282	0.1567111606522193	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.1086941406941407	0.0005750499061093931	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.12115995715995717	0.0001226441663400759	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.7159802359802361	6.159054876302724e-158	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.9475221475221475	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.9221956661956663	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.8766270726270726	2.47547e-319	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.9494407094407096	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8272861192861193	3.565949993156706e-252	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.42123895323895333	2.778295164532832e-44	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.16644760644760645	1.1971992625598075e-07	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.2895613215613216	9.083067057770975e-21	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+1.0	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.9494407094407096	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.9268330708330709	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.9094445974445976	0.0	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+-0.2751377991377991	7.9075072375172095e-19	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9571878360593995	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+1.0	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.8242415722415722	9.533711577002997e-249	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.35255371655371653	1.2268932910524185e-30	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.11933678333678334	0.00015522044608992327	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.17705654105654106	1.7343356619153234e-08	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.1291767571767572	4.185474529399579e-05	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.7980529740529742	9.118414166181439e-222	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.9995193515193516	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.9412048132048132	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.9206126606126606	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+1.0	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8623804903804905	2.7032041871511788e-297	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.41157875157875157	3.656329042002899e-42	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.20952727752727754	2.201953625149991e-11	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.3634754434754435	1.3544487263094867e-32	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.9494407094407096	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+1.0	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.9904815544815546	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+0.9542050022050023	0.0	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False
+0.2807845487845488	1.4196058304484614e-19	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	down	down	False
+0.9667118016119371	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	down	down	False
+-0.9904815544815546	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	down	up	True
+0.8135093975093974	3.555381608232619e-237	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	down	down	False
+0.35889703089703096	9.150848716607929e-32	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	down	down	False
+-0.11281422481422483	0.0003509600271359696	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	down	up	True
+-0.16424061224061223	1.7628214264308396e-07	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	down	up	True
+0.13715980115980114	1.3457240634173869e-05	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	down	down	False
+-0.7900660660660661	2.54238751605986e-214	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	down	up	True
+-0.990983166983167	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	down	up	True
+-0.9391227031227032	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-5410	other	FA derivatives	other | traumatin biosyn	down	up	True
+0.9102120942120943	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-6174	primary		precursors | mevalonate pathway II	down	down	False
+-0.9904815544815546	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	down	up	True
+0.860940512940513	3.3171500427358554e-295	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	down	down	False
+-0.39896149496149497	1.6919620011396917e-39	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	down	up	True
+-0.20016785616785615	1.695145999240789e-10	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	down	up	True
+0.37140788340788344	4.591897344568832e-34	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	down	down	False
+-0.9268330708330709	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	down	up	True
+-0.9904815544815546	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	down	up	True
+1.0	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	down	down	False
+-0.9489350649350651	0.0	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	PWY-981	hormones	SA	hormones | salicylate biosyn III	down	up	True
+-0.19923377523377525	2.0670699995184119e-10	PWY-981	hormones	SA	hormones | salicylate biosyn III	CAROTENOID-PWY	terpenoids	tetraterpenoid	terpenoids | carotenoid biosyn in plants	up	down	True
+-0.9260293188074069	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	HISTSYN-PWY	primary		amino acids | L-histidine biosyn	up	down	True
+0.9542050022050023	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	NONMEVIPP-PWY	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. I	up	up	False
+-0.8868290988290989	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-2261	primary		ascorbic acid | ascorbate glutathione cycle	up	down	True
+-0.2825640905640906	8.194291634860984e-20	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-2582	hormones	Brassinosteroids	hormones | brassinolide biosyn II	up	down	True
+0.05000881400881401	0.11400875438116766	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-2681	hormones	Cytokinins	hormones | trans-zeatin biosyn	up	up	False
+0.12688511488511492	5.7287350644521294e-05	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-2781	hormones	Cytokinins	hormones | cis-zeatin biosyn	up	up	False
+-0.039442851442851444	0.21268458376714394	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-5052	hormones	Gibberellins	hormones | gibberellin biosyn	up	down	True
+0.8579560739560741	5.973682051963346e-291	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-5063	terpenoids	diterpenoid	terpenoids | phytyl diphosphate biosyn	up	up	False
+0.9554401994401995	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-5121	precursors	terp. prec.	2nd. precursors | geranylgeranyl diphosph. biosyn II	up	up	False
+0.9104054984054984	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-5410	other	FA derivatives	other | traumatin biosyn	up	up	False
+-0.9526198126198127	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-6174	primary		precursors | mevalonate pathway II	up	down	True
+0.9542050022050023	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-6270	terpenoids	hemiterpenoid	terpenoids | isoprene biosyn I	up	up	False
+-0.8040619920619921	1.3596959963562096e-227	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-6351	other	sugar alcohols	other | triphosphoinositol biosyn	up	down	True
+0.3813819333819334	5.686432161735323e-36	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-6458	hormones	SA	hormones | benzoyl-CoA biosyn	up	up	False
+0.14990212190212193	1.923311089668946e-06	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-695	hormones	ABA	hormones | abscisic acid biosyn	up	up	False
+-0.2952549912549913	1.4484003104196734e-21	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-699	hormones	Brassinosteroids	hormones | brassinolide biosyn I	up	down	True
+0.9094445974445976	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-735	hormones	JA	hormones | jasmonic acid biosyn	up	up	False
+0.9542050022050023	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-7560	precursors	terp. prec.	2nd. precursors | methylerythritol phosph. pwy. II	up	up	False
+-0.9489350649350651	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-882	primary		ascorbic acid | L-ascorbate biosyn I	up	down	True
+1.0	0.0	PWY-981	hormones	SA	hormones | salicylate biosyn III	PWY-981	hormones	SA	hormones | salicylate biosyn III	up	up	False

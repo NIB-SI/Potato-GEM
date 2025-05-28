@@ -1,0 +1,50 @@
+class	pws	plt_ind	comparison	direction	fish_pval_corr	cut_fxc	type	type2	class2	combined
+terpenoids	CAROTENOID-PWY	carotenoid biosyn in plants	CPB	down	0.0125268995057499	2	2nd	secondary	terpenoids	CPB_down
+terpenoids	CAROTENOID-PWY	carotenoid biosyn in plants	PVY	down	0.0021301853017294	5	2nd	secondary	terpenoids	PVY_down
+primary	COA-PWY	coenzyme A biosyn I	PVY	up	0.0164719761155043	10	primary	primary	acetyl-coA	PVY_up
+primary	GLYCOLYSIS-E-D	glycolysis pathway	PVY	up	0.0164719761155043	10	primary	primary	gluconeogen./glycolysis	PVY_up
+primary	HISTSYN-PWY	L-histidine biosyn	CPB	down	0.0086484700845301	2	primary	primary	amino acids	CPB_down
+primary	HISTSYN-PWY	L-histidine biosyn	PVY	down	0.0040308505462535	10	primary	primary	amino acids	PVY_down
+precursors	NONMEVIPP-PWY	methylerythritol phosph. pwy. I	CPB	up	0.018008497083482	10	precursors	primary	2nd. precursors	CPB_up
+precursors	NONMEVIPP-PWY	methylerythritol phosph. pwy. I	PVY	up	0.0010894655458748	10	precursors	primary	2nd. precursors	PVY_up
+primary	OXIDATIVEPENT-PWY	pentose phosphate pathway I	PVY	up	0.0155389064655193	10	primary	primary	gluconeogen./glycolysis	PVY_up
+primary	PWY-2261	ascorbate glutathione cycle	CPB	down	0.0442413614422532	5	primary	primary	ascorbic acid	CPB_down
+primary	PWY-2261	ascorbate glutathione cycle	PVY	down	0.0071736371614953	10	primary	primary	ascorbic acid	PVY_down
+hormones	PWY-2582	brassinolide biosyn II	CPB	down	0.0086484700845301	2	2nd	secondary	hormones	CPB_down
+hormones	PWY-2582	brassinolide biosyn II	PVY	down	0.0452031442437747	10	2nd	secondary	hormones	PVY_down
+hormones	PWY-2681	trans-zeatin biosyn	CPB	up	0.0039807121894377	5	2nd	secondary	hormones	CPB_up
+hormones	PWY-2781	cis-zeatin biosyn	CPB	up	0.0056315656024104	3	2nd	secondary	hormones	CPB_up
+hormones	PWY-2781	cis-zeatin biosyn	PVY	up	0.0036140783434423	10	2nd	secondary	hormones	PVY_up
+precursors	PWY-361	monolignol biosyn	PVY	down	0.0082372507892972	5	precursors	primary	2nd. precursors	PVY_down
+primary	PWY-4702	phytate deg I	PVY	down	0.0345395917041824	2	primary	primary	phosphorous metabolism	PVY_down
+hormones	PWY-5052	gibberellin biosyn	CPB	down	0.0029982890188893	2	2nd	secondary	hormones	CPB_down
+hormones	PWY-5052	gibberellin biosyn	PVY	down	0.0160090606745245	10	2nd	secondary	hormones	PVY_down
+hormones	PWY-5053	gibberellin A12 biosyn	PVY	up	2.813301750371148e-05	10	2nd	secondary	hormones	PVY_up
+terpenoids	PWY-5063	phytyl diphosphate biosyn	CPB	up	0.018008497083482	10	2nd	secondary	terpenoids	CPB_up
+precursors	PWY-5121	geranylgeranyl diphosph. biosyn II	CPB	up	0.0426416757220217	5	precursors	primary	2nd. precursors	CPB_up
+precursors	PWY-5121	geranylgeranyl diphosph. biosyn II	PVY	up	0.0038927173865189	10	precursors	primary	2nd. precursors	PVY_up
+phenylpropanoid derivatives	PWY-5176	coumarin biosyn	PVY	up	0.0081011603363555	5	2nd	secondary	phenylpropanoid derivatives	PVY_up
+alkaloids	PWY-5317	tropane alkaloids biosyn	PVY	up	0.0051511892046145	5	2nd	secondary	alkaloids	PVY_up
+other	PWY-5410	traumatin biosyn	CPB	up	0.0173645411347823	10	2nd	secondary	other	CPB_up
+primary	PWY-6174	mevalonate pathway II	CPB	down	0.025803392464849	3	primary	primary	precursors	CPB_down
+terpenoids	PWY-6270	isoprene biosyn I	CPB	up	0.018008497083482	10	2nd	secondary	terpenoids	CPB_up
+terpenoids	PWY-6270	isoprene biosyn I	PVY	up	0.0010894655458748	10	2nd	secondary	terpenoids	PVY_up
+other	PWY-6351	triphosphoinositol biosyn	CPB	down	4.64556385391122e-05	10	2nd	secondary	other	CPB_down
+hormones	PWY-6458	benzoyl-CoA biosyn	CPB	up	0.0339304907305808	5	2nd	secondary	hormones	CPB_up
+terpenoids	PWY-6475	trans-lycopene biosyn II	PVY	up	2.813301750371148e-05	10	2nd	secondary	terpenoids	PVY_up
+terpenoids	PWY-6540	costunolide biosyn	PVY	up	0.01100693323407	3	2nd	secondary	terpenoids	PVY_up
+phenylpropanoid derivatives	PWY-6787	flavonoid biosyn	PVY	up	0.0164719761155043	10	2nd	secondary	phenylpropanoid derivatives	PVY_up
+hormones	PWY-695	abscisic acid biosyn	CPB	up	0.029119297039762	2	2nd	secondary	hormones	CPB_up
+hormones	PWY-699	brassinolide biosyn I	CPB	down	0.0068972682555816	2	2nd	secondary	hormones	CPB_down
+hormones	PWY-699	brassinolide biosyn I	PVY	down	0.0352572609919607	10	2nd	secondary	hormones	PVY_down
+alkaloids	PWY-7341	hyoscyamine&scopolamine biosyn	PVY	up	0.0001313561091015	5	2nd	secondary	alkaloids	PVY_up
+hormones	PWY-735	jasmonic acid biosyn	CPB	up	6.160986065264158e-24	10	2nd	secondary	hormones	CPB_up
+hormones	PWY-735	jasmonic acid biosyn	PVY	down	7.653850984508481e-06	10	2nd	secondary	hormones	PVY_down
+precursors	PWY-7560	methylerythritol phosph. pwy. II	CPB	up	0.018008497083482	10	precursors	primary	2nd. precursors	CPB_up
+precursors	PWY-7560	methylerythritol phosph. pwy. II	PVY	up	0.0010894655458748	10	precursors	primary	2nd. precursors	PVY_up
+primary	PWY-8277	NAD de novo biosyn IV	PVY	up	0.0164719761155043	10	primary	primary	cofactors	PVY_up
+primary	PWY-882	L-ascorbate biosyn I	CPB	down	0.0444108620889796	2	primary	primary	ascorbic acid	CPB_down
+hormones	PWY-981	salicylate biosyn III	CPB	up	0.0426416757220217	5	2nd	secondary	hormones	CPB_up
+hormones	PWY-981	salicylate biosyn III	PVY	up	0.0320954969386031	5	2nd	secondary	hormones	PVY_up
+primary	PYRIDNUCSYN-PWY	NAD de novo biosyn I	PVY	up	0.0036140783434423	10	primary	primary	cofactors	PVY_up
+precursors	flavonoid_precursors	flavonoid precursors	PVY	down	0.0452031442437747	10	precursors	primary	2nd. precursors	PVY_down

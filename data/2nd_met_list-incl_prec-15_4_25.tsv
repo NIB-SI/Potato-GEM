@@ -1,0 +1,212 @@
+class	subclass	compound	id	type
+alkaloids	alk. prec.	cholesterol	chsterol[c]	precursors
+alkaloids	alk. prec.	putrescine	ptrc[c]	precursors
+alkaloids	alk. prec.	spermidine	spmd[c]	precursors
+alkaloids	alk. prec.	spermine	sprm[c]	precursors
+alkaloids	alk. prec.	4-aminobutanoate	4abut[c]	precursors
+alkaloids	alk. prec.	1-pyrroline	CE1944[c]	precursors
+alkaloids	alkaloids	solanidine	solanidine[c]	2nd
+alkaloids	alkaloids	alpha-solanine	a_sol[c]	2nd
+alkaloids	alkaloids	alpha-chaconine	a_chac[c]	2nd
+alkaloids	alkaloids	16α,22,26-trihydroxycholesterol	16_22_26_trihydchst[c]	2nd
+alkaloids	alkaloids	solasodine	solasodine[c]	2nd
+alkaloids	alkaloids	solasodine 3-O-β-D-galactoside	sol3ObDgals[c]	2nd
+alkaloids	alkaloids	solasodine 3-O-β-D-glucoside	sol3ObDglus[c]	2nd
+alkaloids	alkaloids	1-methylpyrrolinium	1mpyr[c]	2nd
+alkaloids	alkaloids	calystegine A3	calystegine[c]	2nd
+alkaloids	alkaloids	scopolamine	scopolamine[c]	2nd
+alkaloids	alkaloids	S-atropine	hyoscyamine_L[c]	2nd
+terpenoids	terp. prec.	prenyl diphoshate	dmpp[c]	precursors
+terpenoids	terp. prec.	(2E,6E)-farnesyl diphosphate[c]	frdp[c]	precursors
+terpenoids	terp. prec.	geranylgeranyl diphoshate[c]	ggdp[c]	precursors
+terpenoids	terp. prec.	prenyl diphosphate	dmpp[h]	precursors
+terpenoids	terp. prec.	3-methylbut-3-en-1-yl diphosphate	ipdp[h]	precursors
+terpenoids	terp. prec.	(2E,6E)-farnesyl diphosphate[h]	frdp[h]	precursors
+terpenoids	terp. prec.	geranylgeranyl diphoshate[h]	ggdp[h]	precursors
+terpenoids	terp. prec.	geranyl diphoshate[c]	grdp[c]	precursors
+terpenoids	terp. prec.	geranyl diphoshate[h]	grdp[h]	precursors
+terpenoids	terp. prec.	ent-kaurene	ientkaur16ene[c]	precursors
+terpenoids	tetraterpenoid	lycopene	lycop[h]	2nd
+terpenoids	tetraterpenoid	alpha-carotene	acaro[h]	2nd
+terpenoids	tetraterpenoid	delta-carotene	dcaro[h]	2nd
+terpenoids	tetraterpenoid	beta-carotene	caro[h]	2nd
+terpenoids	tetraterpenoid	gamma-carotene	gcarote[h]	2nd
+terpenoids	tetraterpenoid	lutein	lutein[h]	2nd
+terpenoids	tetraterpenoid	zeaxanthin	zeax[h]	2nd
+terpenoids	tetraterpenoid	violaxanthin	vioxan[h]	2nd
+terpenoids	tetraterpenoid	9-cis-neoxathin	9cneoxan[h]	2nd
+terpenoids	diterpenoid	phytyl diphosphate	phdp[h]	2nd
+terpenoids	diterpenoid	cis-abienol	cabienol[h]	2nd
+terpenoids	monoterpenoid	(+)-camphor	camphor[h]	2nd
+terpenoids	monoterpenoid	(3R)-linalool	3Rlinalool[h]	2nd
+terpenoids	monoterpenoid	(3S)-linalool	3Slinalool[h]	2nd
+terpenoids	monoterpenoid	geraniol	geraniol[h]	2nd
+terpenoids	monoterpenoid	neral	neral[h]	2nd
+terpenoids	monoterpenoid	geranyl acetate	gerac[h]	2nd
+terpenoids	monoterpenoid	nerol	nerol[h]	2nd
+terpenoids	monoterpenoid	(+)-2-carene	carene[h]	2nd
+terpenoids	monoterpenoid	(-)-α-pinene	appnn[h]	2nd
+terpenoids	monoterpenoid	α-phellandrene	aphedn[h]	2nd
+terpenoids	monoterpenoid	(4S)-limonene	limnen[h]	2nd
+terpenoids	monoterpenoid	α-terpinene	aterpn[h]	2nd
+terpenoids	monoterpenoid	β-phellandrene	bphedn[h]	2nd
+terpenoids	sesquiterpenoid	(+)-costunolide (12,6α)	costunolid[c]	2nd
+terpenoids	sesquiterpenoid	inunolide	inunolid[c]	2nd
+terpenoids	sesquiterpenoid	8-epi-inunolide	8einunolid[c]	2nd
+terpenoids	sesquiterpenoid	(-)-β-elemene	belemene[c]	2nd
+terpenoids	sesquiterpenoid	(-)-β-caryophyllene	Ebcaryophyllene[c]	2nd
+terpenoids	sesquiterpenoid	α-humulene	ahumulene[c]	2nd
+terpenoids	sesquiterpenoid	(Z,E)-α-farnesene	ZEafarnesene[c]	2nd
+terpenoids	sesquiterpenoid	(E,E)-α-farnesene	EEafarnesene[c]	2nd
+terpenoids	sesquiterpenoid	(E)-β-farnesene	Ebfarnesene[c]	2nd
+terpenoids	sesquiterpenoid	(+)-germacrene A	germacreneA[c]	2nd
+terpenoids	sesquiterpenoid	(-)-germacrene D	germacreneD[c]	2nd
+terpenoids	sesquiterpenoid	(E,E)-germacrene B	EEgermacreneB[c]	2nd
+terpenoids	sesquiterpenoid	(+)-germacrene D	germacrene_D[c]	2nd
+terpenoids	sesquiterpenoid	germacrene C	germacreneC[c]	2nd
+terpenoids	sesquiterpenoid	(+)-valencene	valencene[c]	2nd
+terpenoids	sesquiterpenoid	7-epi-α-selinene	selinene[c]	2nd
+terpenoids	triterpenoid	S-2_3-Epoxysqualene	epoSQ[r]	2nd
+terpenoids	triterpenoid	α-amyrin	aamyrin[r]	2nd
+terpenoids	triterpenoid	cycloartenol	cyart[c]	2nd
+terpenoids	triterpenoid	lupeol	lupeol[r]	2nd
+terpenoids	triterpenoid	stigmasterol	Stigmasterol[r]	2nd
+terpenoids	triterpenoid	campesterol	Campesterol[r]	2nd
+terpenoids	triterpenoid	crinosterol	crinosterol[c]	2nd
+terpenoids	triterpenoid	brassicasterol	Brassicasterol[r]	2nd
+phenylpropanoid derivatives	phen. prec.	3-dehydroquinate	3dhq[h]	precursors
+phenylpropanoid derivatives	phen. prec.	chorismate	chor[h]	precursors
+phenylpropanoid derivatives	phen. prec.	L-phenylalanine[h]	phe_L[h]	precursors
+phenylpropanoid derivatives	phen. prec.	L-phenylalanine[c]	phe_L[c]	precursors
+phenylpropanoid derivatives	phen. prec.	4-coumarate	T4hcinnm[c]	precursors
+phenylpropanoid derivatives	phen. prec.	(E)-4-coumaroyl-CoA	coucoa[c]	precursors
+phenylpropanoid derivatives	phen. prec.	(E)-caffeoyl-CoA	caffcoa[c]	precursors
+phenylpropanoid derivatives	phen. prec.	sinapyl-alcohol	sinapylalc[c]	precursors
+phenylpropanoid derivatives	phen. prec.	coniferyl-alcohol	confrl[c]	precursors
+phenylpropanoid derivatives	phen. prec.	4-coumaryl alcohol	coumarylalc[c]	precursors
+phenylpropanoid derivatives	phen. prec.	pelargonidin-3-O-beta-D-glucoside	pelargonidin3ogide[c]	2nd
+phenylpropanoid derivatives	phen. prec.	cyanidin 3,7-di-O-β-D-glucoside	cyan37diobdgide[c]	2nd
+phenylpropanoid derivatives	phen. prec.	delphinidin-3-O-beta-D-glucoside	delphinidin3Ogide_D[c]	2nd
+phenylpropanoid derivatives	phen. prec.	kaempferol	kaempferol[c]	2nd
+phenylpropanoid derivatives	phen. prec.	quercetin	quercetin[c]	2nd
+phenylpropanoid derivatives	phen. prec.	myricetin	myricetin[c]	2nd
+phenylpropanoid derivatives	phen. prec.	genistin	genistin[c]	2nd
+phenylpropanoid derivatives	phen. prec.	1-O-4-hydroxybenzoyl-β-D-glucose	1o4hydbenzbdglu[c]	2nd
+phenylpropanoid derivatives	phen. prec.	1-O-(4-coumaroyl)-β-D-glucose	1o4coubdglu[c]	2nd
+phenylpropanoid derivatives	phen. prec.	4-hydroxybenzoate	4hbz[c]	precursors
+phenylpropanoid derivatives	phen. prec.	pinocembrin chalcone	pinocembrin_chalcone[c]	2nd
+phenylpropanoid derivatives	flavonoids	(+)-dihydrokaempferol	dhkaempferol[c]	2nd
+phenylpropanoid derivatives	flavonoids	isoliquiritigenin	iliquiritigenin[c]	2nd
+phenylpropanoid derivatives	flavonoids	pelargonidin3Orutinoside5Ogide_D_c	pelargonidin3Orutinoside5Ogide_D[c]	2nd
+phenylpropanoid derivatives	flavonoids	pelargonidin3Ocaffeoylgide_D_c	pelargonidin3Ocaffeoylgide_D[c]	2nd
+phenylpropanoid derivatives	flavonoids	pelargonidin3opcoumaroylgide_c	pelargonidin3opcoumaroylgide[c]	2nd
+phenylpropanoid derivatives	flavonoids	pelargonidin3O6Omalgide_D_c	pelargonidin3O6Omalgide_D[c]	2nd
+phenylpropanoid derivatives	flavonoids	pelargonidin35dgide_c	pelargonidin35dgide[c]	2nd
+phenylpropanoid derivatives	flavonoids	salvianin	salvianin[c]	2nd
+phenylpropanoid derivatives	flavonoids	cyanidin 3-O-glucoside-7-O-(6-O-(4-O-(6-O-(p-hydroxybenzoyl)-glucosyl)-oxybenzoyl)-glucoside)	cpd16604[c]	2nd
+phenylpropanoid derivatives	flavonoids	anthocyanin A11	cpd16540[c]	2nd
+phenylpropanoid derivatives	flavonoids	ternatin C5	ternatinC5[c]	2nd
+phenylpropanoid derivatives	flavonoids	ternatin C3	ternatinC3[c]	2nd
+phenylpropanoid derivatives	flavonoids	violdelphin	violdelphin[c]	2nd
+phenylpropanoid derivatives	flavonoids	apigenin	apigenin[c]	2nd
+phenylpropanoid derivatives	flavonoids	salvigenin	salvigenin[c]	2nd
+phenylpropanoid derivatives	flavonoids	7oDgylapigenin_c	7oDgylapigenin[c]	2nd
+phenylpropanoid derivatives	flavonoids	apigenin7o6malgide_c	apigenin7o6malgide[c]	2nd
+phenylpropanoid derivatives	flavonoids	apigenin7oneohesperidoside_c	apigenin7oneohesperidoside[c]	2nd
+phenylpropanoid derivatives	flavonoids	7bDapiofuranosyl12bDgylapigenin_c	7bDapiofuranosyl12bDgylapigenin[c]	2nd
+phenylpropanoid derivatives	flavonoids	luteolin 7-O-neohesperidoside	luteolin7oneohesperidoside[c]	2nd
+phenylpropanoid derivatives	flavonoids	luteolin-7-O-gentiobioside	cpd14825[c]	2nd
+phenylpropanoid derivatives	flavonoids	orientin	orientin[c]	2nd
+phenylpropanoid derivatives	flavonoids	isoorientin	isoorientin[c]	2nd
+phenylpropanoid derivatives	flavonoids	8-C-glucosyl chrysin	cpd15084[c]	2nd
+phenylpropanoid derivatives	flavonoids	6-C-glucosyl chrysin	cpd15087[c]	2nd
+phenylpropanoid derivatives	flavonoids	(+)-taxifolin	itransdhquercetin[c]	2nd
+phenylpropanoid derivatives	flavonoids	syringetin	syringetin[c]	2nd
+phenylpropanoid derivatives	flavonoids	3,3'-dimethylquercetin	33dmtquerc[c]	2nd
+phenylpropanoid derivatives	flavonoids	3,7'-dimethylquercetin	37omquercetin[c]	2nd
+phenylpropanoid derivatives	flavonoids	7,3'-dimethylquercetin	73dmtquerc[c]	2nd
+phenylpropanoid derivatives	flavonoids	7,4'-dimethylquercetin	74dmtquerc[c]	2nd
+phenylpropanoid derivatives	flavonoids	quercetin-3-gentiotetraside	cpd14822[c]	2nd
+phenylpropanoid derivatives	flavonoids	kaempferol 3-O-β-D-glucosylgalactoside	cpd15105[c]	2nd
+phenylpropanoid derivatives	flavonoids	3-O-methylkaempferol	cpd14950[c]	2nd
+phenylpropanoid derivatives	flavonoids	3,4'-dimethylkaempferol	34dimetkmpfol[c]	2nd
+phenylpropanoid derivatives	flavonoids	7,4'-dimethylkaempferol	74dimetkmpfol[c]	2nd
+phenylpropanoid derivatives	flavonoids	myricetin 3-O-gentiobioside	cpd14843[c]	2nd
+phenylpropanoid derivatives	flavonoids	genistin 7-gentiobioside	genistin7gentside[c]	2nd
+phenylpropanoid derivatives	coumarins	coumarin	coumarin[c]	2nd
+phenylpropanoid derivatives	coumarins	umbelliferone	hcoumarin[c]	2nd
+phenylpropanoid derivatives	coumarins	bergapten	bergapten[c]	2nd
+phenylpropanoid derivatives	coumarins	scopoletin	scopoletin[c]	2nd
+phenylpropanoid derivatives	cinnamates	feruloyl-CoA	ferulcoa[c]	2nd
+phenylpropanoid derivatives	cinnamates	trans-5-O-caffeoyl-D-quinate	caffeoylquin[c]	2nd
+phenylpropanoid derivatives	cinnamates	5-O-caffeoylshikimate	caffeoylskm[c]	2nd
+phenylpropanoid derivatives	cinnamates	trans-cinnamoyl-CoA	cinnamoylcoa[c]	2nd
+phenylpropanoid derivatives	cinnamates	cinnamoyl-β-D-glucoside	trans_cnnmgide[c]	2nd
+phenylpropanoid derivatives	cinnamates	eugenol	eugenol[c]	2nd
+phenylpropanoid derivatives	cinnamates	isoeugenol	ieugenol[c]	2nd
+phenylpropanoid derivatives	lignan	(-)-matairesinol	matairesinol[c]	2nd
+phenylpropanoid derivatives	lignan	(+)-secoisolariciresinol	psecoilariciresinol[c]	2nd
+phenylpropanoid derivatives	lignan	(+)-secoisolariciresinol diglucoside	cpd16684[c]	2nd
+phenylpropanoid derivatives	lignin	coniferin	coniferin[c]	2nd
+phenylpropanoid derivatives	other	2-phenylethanol	2phetoh[c]	2nd
+phenylpropanoid derivatives	other	2-O-caffeoylglucarate	2ocafglucarate[c]	2nd
+phenylpropanoid derivatives	other	benzoyl-β-D-glucopyranose	bzbDglupyr[c]	2nd
+toxins	phytoalexins	4-coumaroyltriacetate lactone	4coumaroyl3ac_lac[c]	2nd
+toxins	phytoalexins	trans-resveratrol	resveratrol[c]	2nd
+toxins	phytoalexins	bis-noryangonin	bny[c]	2nd
+toxins	phytoalexins	capsidiol	capsidiol[c]	2nd
+hormones	JA	(-)-jasmonate	jasmonate[c]	2nd
+hormones	JA	jasmonyl-glutamine	jalglu[c]	2nd
+hormones	JA	jasmonyl-L-isoleucine	jalile[c]	2nd
+hormones	JA	jasmonyl-L-valine	jalval[c]	2nd
+hormones	JA	jasmonyl-L-leucine	jalleu[c]	2nd
+hormones	SA	salicylate	salc[c]	2nd
+hormones	SA	benzoyl-CoA	benzcoa[c]	2nd
+hormones	SA	methylsalicylate	msalicylate[c]	2nd
+hormones	SA	salicylate 2-O-β-D-glucoside (CPD-12628)	cpd12628[c]	2nd
+hormones	Eth	ethene	ethe[c]	2nd
+hormones	ABA	2-cis-abscisate	abscisate[c]	2nd
+hormones	ABA	2-trans-abscisate	2tabscisate[c]	2nd
+hormones	Auxins	(indol-3-yl)acetate	ind3ac[c]	2nd
+hormones	Auxins	methyl (indol-3-yl)acetate	mind3ac[c]	2nd
+hormones	Gibberellins	gibberellin A12	ga12[c]	2nd
+hormones	Gibberellins	gibberellin A4	ga4[c]	2nd
+hormones	Gibberellins	gibberellin A36	ga36[c]	2nd
+hormones	Gibberellins	gibberellin A13	ga13[c]	2nd
+hormones	Gibberellins	gibberellin A15	ga15[c]	2nd
+hormones	Gibberellins	gibberellin A1	ga1[c]	2nd
+hormones	Gibberellins	gibberellin A17	ga17[c]	2nd
+hormones	Gibberellins	gibberellin A38	ga38[c]	2nd
+hormones	Cytokinins	cis-zeatin	ciszeatin[c]	2nd
+hormones	Cytokinins	trans-zeatin	ckinin[c]	2nd
+hormones	Cytokinins	isopentenyladenine-7-N-glucoside	isopentad7ng[c]	2nd
+hormones	Cytokinins	trans-zeatin-O-glucoside-7-N-glucoside	transzeaOg7ngide[c]	2nd
+hormones	Cytokinins	cis-zeatin-7-N-glucoside	ciszea7ngide[c]	2nd
+hormones	Cytokinins	trans-zeatin-7-N-glucoside	transzea7ngide[c]	2nd
+hormones	Cytokinins	cis-zeatin-9-N-glucoside	ciszea9ngide[c]	2nd
+hormones	Cytokinins	isopentenyladenine-9-N-glucoside	isopentad9ng[c]	2nd
+hormones	Cytokinins	trans-zeatin-9-N-glucoside	transzea9ngide[c]	2nd
+hormones	Cytokinins	cis-zeatin-O-glucoside	ciszeatinOgide[c]	2nd
+hormones	Cytokinins	trans-zeatin-O-glucoside	transzeatinOgide[c]	2nd
+hormones	Brassinosteroids	brassinolide	brassinolide[c]	2nd
+other	FA der. prec.	linoleate	C18_2[hm]	precursors
+other	FA der. prec.	alpha-linolenate	C18_3[hm]	precursors
+other	FA derivatives	9,10-epoxy-10,12Z,15Z-octadecatrienoate	cpd8682[h]	2nd
+other	FA derivatives	(12Z)-9-hydroxy-10-oxo-octadec-12-enoate	cpd8683[h]	2nd
+other	FA derivatives	colneleate	colneleate[h]	2nd
+other	FA derivatives	colnelenate	colnelenate[h]	2nd
+other	FA derivatives	1-hexanal	hxal[h]	2nd
+other	FA derivatives	traumatin	traumatin[h]	2nd
+other	FA derivatives	(3Z)-hex-3-en-1-yl acetate	cpd12846[h]	2nd
+other	FA derivatives	E2-hexenol	trans_2hexenol[h]	2nd
+other	nitrogen-containing	sinapoyltyramine	sinapoyltyramine[c]	2nd
+other	nitrogen-containing	cinnamoyltyramine	cinnamoyltyramine[c]	2nd
+other	nitrogen-containing	N-feruloyltyramine	feruloyltyramine[c]	2nd
+other	nitrogen-containing	(4-coumaroyl)tyramine	pcoumaroyltyramine[c]	2nd
+other	nitrogen-containing	dihydroxyferuloyl-sinapoyl spermidine	cpd11668[c]	2nd
+other	sugar alcohols	D-mannitol	mnl[c]	2nd
+other	sugar alcohols	myo-inositol	inost[c]	2nd
+other	sugar alcohols	D-myo-inositol (1,4,5)-trisphosphate	mi145p[c]	2nd
+other	sugar alcohols	3,5-bisdiphosphoinositol-1D-myo-inositol 2,3,4,6-tetrakisphosphate	cpd11939[c]	2nd
+other	sugar alcohols	1D-myo-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate	cpd11938[c]	2nd
+other	sugar alcohols	phytate	minohp[c]	2nd

@@ -1,0 +1,49 @@
+ontology	comparison	direction	fish_pval_corr	cut_fxc
+alcohol deg	PVY	down	0.0125040698343613	5
+amino acid biosyn	CPB	down	1.1616160021132818e-12	2
+amino acid biosyn	PVY	down	1.9659228517269327e-10	10
+aromatic compounds biosyn	CPB	up	0.0052083374871791	10
+aromatic compounds biosyn	PVY	down	1.9659228517269327e-10	10
+aromatic compounds deg	CPB	up	0.0088281059969627	5
+c1 compounds	CPB	down	0.011482532257016	3
+c1 compounds	PVY	down	0.0424868397880264	5
+carbohydrates biosyn	CPB	down	0.004904728099449	2
+carbohydrates biosyn	PVY	down	0.002486887075064	10
+carbohydrates deg	CPB	up	0.0301780005473266	10
+carbohydrates deg	PVY	up	0.0289144749740792	10
+carboxylate biosyn	CPB	down	3.380594936000101e-08	2
+carboxylate biosyn	PVY	down	3.569716440571512e-07	5
+carboxylates deg	CPB	down	0.0001616522633484	3
+carboxylates deg	PVY	down	0.0020022029150438	5
+cell structure biosyn	CPB	down	0.0250800949505243	2
+cell structure biosyn	PVY	down	0.0037930407916825	10
+cyclitols biosyn	CPB	down	0.0008945904214129	10
+cyclitols deg	CPB	down	0.0009234783168127	3
+cyclitols deg	PVY	up	0.0239536845065534	3
+cyclitols deg	PVY	down	0.000622557216778	3
+energy metabolism	CPB	down	0.000617867130318	3
+energy metabolism	PVY	down	0.0006291109319536	5
+fatty acid and lipid deg	CPB	down	0.0142888527486951	3
+hormone syn	CPB	up	0.0082001103747933	10
+hormone syn	PVY	down	0.0125040698343613	5
+lipid biosyn	CPB	up	1.876632806097368e-05	10
+lipid biosyn	PVY	up	0.0014324945496197	10
+metabolic regulators	CPB	down	0.0101308265646737	2
+metabolic regulators	PVY	down	0.0315368033088358	3
+noncarbon nutrients	CPB	down	0.0045933509791181	3
+noncarbon nutrients	PVY	down	0.0018311278940052	5
+nucleo deg	PVY	up	0.0114766033061416	5
+nucleotide biosyn	CPB	down	2.3294626839055339e-07	2
+nucleotide biosyn	PVY	down	3.5258418413242813e-07	10
+other deg	CPB	down	0.0136230267449236	3
+polyamine biosyn	PVY	up	0.0014324945496197	10
+polymer deg	CPB	up	0.0097539101468416	10
+polymer deg	PVY	up	0.0224189267579211	10
+polyprenyl biosyn	PVY	up	0.0094797880898295	10
+reactive oxygen species deg	CPB	down	0.0020424830184811	5
+reactive oxygen species deg	PVY	down	0.0001193093044986	10
+secondary metabolite biosyn	CPB	up	0.0273741045427035	10
+secondary metabolite biosyn	PVY	down	4.986201120266381e-15	10
+super pathways	PVY	up	0.0288275568395499	5
+tetrapyrrole biosyn	CPB	down	0.0225265521038195	2
+tetrapyrrole biosyn	PVY	down	0.0010597885934009	10

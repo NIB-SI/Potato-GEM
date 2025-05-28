@@ -1,0 +1,9 @@
+compound	ggdw	mmolgdw	ref	organism	mw	include
+Proteins	0.14966373315094286	1.186396244733451	This study	Solanum tuberosum		True
+Free amino acids	0.01735684636831285	0.12968918781184824	Schauer et al. 2005, This study, Peksa et al. 2021	Solanum lycopersicum, Solanum tuberosum		True
+Sugars and organic acids	0.26460502986139833	1.4356982697925633	This study, Hastilestari et al. 2018, Schauer et al. 2005, Santacruz et al. 2004	Solanum tuberosum, Solanum lycopersicum		True
+Lipids	0.058832945060272375	0.1614190688676934	Correa et al. 2023	Solanum tuberosum		True
+Lignin and (hemi)cellulose precursors	0.17635175281816642	1.0397829686116462	Gerlin et al. 2021	Solanum lycopersicum		True
+Chlorophylles	0.030073031406567304	0.033556900149747146	Gerlin et al. 2021	Solanum lycopersicum		True
+Minerals	0.15811666133433983	3.746028696349813	Chea et al. 2021, Kirkby & Mengel 1967	Solanum tuberosum		True
+Nucleic acids	0.145	0.43046388423209453	This study: inferred	Solanum tuberosum		True
